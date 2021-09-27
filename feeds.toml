@@ -10,10 +10,10 @@ waitForSelector = ".ServiceItemList_item__1PzdI"
 [disquiet]
 title = "Disquiet"
 url = "https://disquiet.io/"
-entrySelector = "div.sc-gVgnHT.bfDGHw div.sc-XhUPp.kiNLFp"
+entrySelector = "div.sc-fvhGYg.kHEClt"
 titleSelector = "h3.title"
-linkSelector = "div.sc-fbNXWD.emHwAg"
-contentSelector = "div.sc-gsxnyZ.gILzWP"
+linkSelector = "div.userProfileImage"
+contentSelector = "div.sc-bXDlPE.fOBqEh"
 waitUntil = "networkidle"
 
 [wwit]
