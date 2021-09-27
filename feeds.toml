@@ -1,0 +1,35 @@
+[thehit]
+title = "THE HIT"
+url = "https://the-hit.co/"
+entrySelector = "ul li.ServiceItemList_item__1PzdI"
+titleSelector = "h2[class^='euiTitle euiTitle']"
+linkSelector = "a"
+contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
+waitForSelector = ".ServiceItemList_item__1PzdI"
+
+[disquiet]
+title = "Disquiet"
+url = "https://disquiet.io/"
+entrySelector = "div.sc-gVgnHT.bfDGHw div.sc-XhUPp.kiNLFp"
+titleSelector = "h3.title"
+linkSelector = "div.sc-fbNXWD.emHwAg"
+contentSelector = "div.sc-gsxnyZ.gILzWP"
+waitUntil = "networkidle"
+
+[wwit]
+title = "WWIT"
+url = "https://wwit.design/"
+entrySelector = "div.c-post-card"
+titleSelector = "h2.c-post-card__title"
+linkSelector = "h2 a.c-post-card__title-link"
+contentSelector = "div.c-post-card__content > div > div:nth-child(2) > a"
+imageSelector = "a.c-post-card__image-link img.c-post-card__image.js-fadein.is-inview"
+waitUntil = "networkidle"
+
+[geeknews_show]
+title = "GeekNews Show"
+url = "https://news.hada.io/show"
+entrySelector = "td.topictitle"
+titleSelector = "h1"
+linkSelector = "a"
+waitUntil = "networkidle"
