@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://news.hada.io/show</id>
+    <title>GeekNews Show</title>
+    <updated>2021-09-27T21:44:59.247Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트]]></title>
+        <id>https://news.hada.io/topic?id=5091</id>
+        <link href="https://news.hada.io/topic?id=5091"/>
+        <updated>2021-09-27T21:44:58.578Z</updated>
+        <content type="html"><![CDATA[(naen-nae.shj.rip)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5083</id>
+        <link href="https://news.hada.io/topic?id=5083"/>
+        <updated>2021-09-27T21:44:58.578Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Goodreads Filter (goodreads.com에서 평점 최상의 책들 모음)]]></title>
+        <id>https://news.hada.io/topic?id=4995</id>
+        <link href="https://news.hada.io/topic?id=4995"/>
+        <updated>2021-09-27T21:44:58.579Z</updated>
+        <content type="html"><![CDATA[(goodreadsfilter.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Screen Recorder]]></title>
+        <id>https://news.hada.io/topic?id=4981</id>
+        <link href="https://news.hada.io/topic?id=4981"/>
+        <updated>2021-09-27T21:44:58.579Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: EasyLogic Studio]]></title>
+        <id>https://news.hada.io/topic?id=4969</id>
+        <link href="https://news.hada.io/topic?id=4969"/>
+        <updated>2021-09-27T21:44:58.579Z</updated>
+        <content type="html"><![CDATA[(easylogic.studio)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 소쿠리캣]]></title>
+        <id>https://news.hada.io/topic?id=4960</id>
+        <link href="https://news.hada.io/topic?id=4960"/>
+        <updated>2021-09-27T21:44:58.579Z</updated>
+        <content type="html"><![CDATA[(sokuricat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 진짜로 쓸 만한 SaaS 툴들을 큐레이션 합니다.]]></title>
+        <id>https://news.hada.io/topic?id=4846</id>
+        <link href="https://news.hada.io/topic?id=4846"/>
+        <updated>2021-09-27T21:44:58.581Z</updated>
+        <content type="html"><![CDATA[(saas.relate.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GeekNews Show 공개]]></title>
+        <id>https://news.hada.io/topic?id=4828</id>
+        <link href="https://news.hada.io/topic?id=4828"/>
+        <updated>2021-09-27T21:44:58.590Z</updated>
+        <content type="html"><![CDATA[(news.hada.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Roadroller - 자바스크립트 데모용 코드 패커]]></title>
+        <id>https://news.hada.io/topic?id=4932</id>
+        <link href="https://news.hada.io/topic?id=4932"/>
+        <updated>2021-09-27T21:44:58.590Z</updated>
+        <content type="html"><![CDATA[(lifthrasiir.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 스마트폰만으로 AI 만들어보기: Cre{ai}t - Teachable Machine Mobile]]></title>
+        <id>https://news.hada.io/topic?id=4900</id>
+        <link href="https://news.hada.io/topic?id=4900"/>
+        <updated>2021-09-27T21:44:58.590Z</updated>
+        <content type="html"><![CDATA[(play.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: iOS Pomodoro Timer and Relaxing Sounds 앱]]></title>
+        <id>https://news.hada.io/topic?id=4952</id>
+        <link href="https://news.hada.io/topic?id=4952"/>
+        <updated>2021-09-27T21:44:58.591Z</updated>
+        <content type="html"><![CDATA[(apps.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 쿤데라 - 문장 공유 서비스]]></title>
+        <id>https://news.hada.io/topic?id=4830</id>
+        <link href="https://news.hada.io/topic?id=4830"/>
+        <updated>2021-09-27T21:44:58.599Z</updated>
+        <content type="html"><![CDATA[(kundera.so)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GeekNews 비공식 Telegram Channel]]></title>
+        <id>https://news.hada.io/topic?id=4842</id>
+        <link href="https://news.hada.io/topic?id=4842"/>
+        <updated>2021-09-27T21:44:58.600Z</updated>
+        <content type="html"><![CDATA[(t.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Flutter로 만든 주짓수 대회 점수판 - 오픈 소스]]></title>
+        <id>https://news.hada.io/topic?id=4891</id>
+        <link href="https://news.hada.io/topic?id=4891"/>
+        <updated>2021-09-27T21:44:58.601Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악]]></title>
+        <id>https://news.hada.io/topic?id=4901</id>
+        <link href="https://news.hada.io/topic?id=4901"/>
+        <updated>2021-09-27T21:44:58.602Z</updated>
+        <content type="html"><![CDATA[(focusli.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 드로우비트 - 기업 경품 이벤트 모음]]></title>
+        <id>https://news.hada.io/topic?id=4858</id>
+        <link href="https://news.hada.io/topic?id=4858"/>
+        <updated>2021-09-27T21:44:58.604Z</updated>
+        <content type="html"><![CDATA[(drawbeat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: prisma-schema-import 라이브러리]]></title>
+        <id>https://news.hada.io/topic?id=4904</id>
+        <link href="https://news.hada.io/topic?id=4904"/>
+        <updated>2021-09-27T21:44:58.605Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart]]></title>
+        <id>https://news.hada.io/topic?id=4835</id>
+        <link href="https://news.hada.io/topic?id=4835"/>
+        <updated>2021-09-27T21:44:58.606Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: vue 유틸들]]></title>
+        <id>https://news.hada.io/topic?id=4836</id>
+        <link href="https://news.hada.io/topic?id=4836"/>
+        <updated>2021-09-27T21:44:58.608Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+</feed>
