@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-10-14T03:11:03.020Z</updated>
+    <updated>2021-10-14T04:12:48.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND]]></title>
-        <id>https://news.hada.io/topic?id=5141</id>
-        <link href="https://news.hada.io/topic?id=5141"/>
-        <updated>2021-10-13T08:12:10.467Z</updated>
-        <content type="html"><![CDATA[(atend.ai)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.]]></title>
         <id>https://news.hada.io/topic?id=5083</id>
         <link href="https://news.hada.io/topic?id=5083"/>
         <updated>2021-10-13T08:12:10.476Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND]]></title>
+        <id>https://news.hada.io/topic?id=5141</id>
+        <link href="https://news.hada.io/topic?id=5141"/>
+        <updated>2021-10-13T08:12:10.467Z</updated>
+        <content type="html"><![CDATA[(atend.ai)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[(naen-nae.shj.rip)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
-        <id>https://news.hada.io/topic?id=5125</id>
-        <link href="https://news.hada.io/topic?id=5125"/>
-        <updated>2021-10-13T08:12:10.478Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Goodreads Filter (goodreads.com에서 평점 최상의 책들 모음)]]></title>
         <id>https://news.hada.io/topic?id=4995</id>
         <link href="https://news.hada.io/topic?id=4995"/>
         <updated>2021-10-13T08:12:10.479Z</updated>
         <content type="html"><![CDATA[(goodreadsfilter.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
+        <id>https://news.hada.io/topic?id=5125</id>
+        <link href="https://news.hada.io/topic?id=5125"/>
+        <updated>2021-10-13T08:12:10.478Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Screen Recorder]]></title>
