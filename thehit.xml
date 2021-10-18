@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2021-10-18T15:11:18.084Z</updated>
+    <updated>2021-10-18T16:14:40.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위세스]]></title>
+        <id>https://the-hit.co/services/YUiMnzSEESWiCwAMY0EP</id>
+        <link href="https://the-hit.co/services/YUiMnzSEESWiCwAMY0EP"/>
+        <updated>2021-10-18T16:14:18.488Z</updated>
+        <content type="html"><![CDATA[B2B 비즈니스 소싱 플랫폼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TMM]]></title>
         <id>https://the-hit.co/services/gkW8wqqXiSfEI0WmkVrF</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4"/>
         <updated>2021-09-27T21:44:39.004Z</updated>
         <content type="html"><![CDATA[런드리고 쓰레기 버전, 비대면 생활폐기물 수거 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아웃코드]]></title>
-        <id>https://the-hit.co/services/8vaR8kCT72U5Xh4YZlIs</id>
-        <link href="https://the-hit.co/services/8vaR8kCT72U5Xh4YZlIs"/>
-        <updated>2021-09-27T21:44:39.005Z</updated>
-        <content type="html"><![CDATA[운영업무 자동화,  아웃코드에서 개발자 없이 쉽게]]></content>
     </entry>
 </feed>
