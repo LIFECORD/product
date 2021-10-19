@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-10-19T01:57:39.522Z</updated>
+    <updated>2021-10-19T02:28:44.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스]]></title>
+        <id>https://news.hada.io/topic?id=5223</id>
+        <link href="https://news.hada.io/topic?id=5223"/>
+        <updated>2021-10-19T02:28:43.660Z</updated>
+        <content type="html"><![CDATA[(web.povv.net)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다.]]></title>
         <id>https://news.hada.io/topic?id=5217</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=4858"/>
         <updated>2021-10-13T08:12:10.495Z</updated>
         <content type="html"><![CDATA[(drawbeat.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악]]></title>
-        <id>https://news.hada.io/topic?id=4901</id>
-        <link href="https://news.hada.io/topic?id=4901"/>
-        <updated>2021-10-13T08:12:10.496Z</updated>
-        <content type="html"><![CDATA[(focusli.com)]]></content>
     </entry>
 </feed>
