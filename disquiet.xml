@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/</id>
     <title>Disquiet</title>
-    <updated>2021-10-21T09:14:48.178Z</updated>
+    <updated>2021-10-21T10:11:28.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[DoVie]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.018Z</updated>
+        <updated>2021-10-21T10:11:16.387Z</updated>
         <content type="html"><![CDATA[딥러닝 기반 클라우드 영상 편집 솔루션 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유어링크]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.018Z</updated>
+        <updated>2021-10-21T10:11:16.389Z</updated>
         <content type="html"><![CDATA[북마크보다 손쉽게 웹사이트를 보관하고 정리하세요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cigro]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.025Z</updated>
+        <updated>2021-10-21T10:11:16.391Z</updated>
         <content type="html"><![CDATA[이커머스 판매/광고 데이터 통합 대시보드 솔루션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30Percent]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.025Z</updated>
+        <updated>2021-10-21T10:11:16.392Z</updated>
         <content type="html"><![CDATA[내 중고명품 직거래말고 빠르게 선불급 지급!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밥식구]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.026Z</updated>
+        <updated>2021-10-21T10:11:16.393Z</updated>
         <content type="html"><![CDATA[여럿이서 스와이프로 빠르게 결정하는 위치기반 식당 정보 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나인하이어]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.026Z</updated>
+        <updated>2021-10-21T10:11:16.394Z</updated>
         <content type="html"><![CDATA[채용 프로세스 통합 솔루션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ATEND]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.026Z</updated>
+        <updated>2021-10-21T10:11:16.396Z</updated>
         <content type="html"><![CDATA[화상회의/녹화/받아쓰기 All-in-one Solution]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바스클로피]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.028Z</updated>
+        <updated>2021-10-21T10:11:16.397Z</updated>
         <content type="html"><![CDATA[클라우드 기반 데이터 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[써티스트]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.029Z</updated>
+        <updated>2021-10-21T10:11:16.398Z</updated>
         <content type="html"><![CDATA[복잡한 제품인증 중개 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Commotion]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-21T09:14:35.030Z</updated>
+        <updated>2021-10-21T10:11:16.399Z</updated>
         <content type="html"><![CDATA[노션용 폼빌더]]></content>
     </entry>
 </feed>
