@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-10-25T06:13:03.285Z</updated>
+    <updated>2021-10-25T07:11:07.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5255</id>
+        <link href="https://news.hada.io/topic?id=5255"/>
+        <updated>2021-10-25T07:11:07.107Z</updated>
+        <content type="html"><![CDATA[(heybunny.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스]]></title>
         <id>https://news.hada.io/topic?id=5223</id>
@@ -137,12 +144,5 @@
         <link href="https://news.hada.io/topic?id=4858"/>
         <updated>2021-10-13T08:12:10.495Z</updated>
         <content type="html"><![CDATA[(drawbeat.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: iOS Pomodoro Timer and Relaxing Sounds 앱]]></title>
-        <id>https://news.hada.io/topic?id=4952</id>
-        <link href="https://news.hada.io/topic?id=4952"/>
-        <updated>2021-10-13T08:12:10.493Z</updated>
-        <content type="html"><![CDATA[(apps.apple.com)]]></content>
     </entry>
 </feed>
