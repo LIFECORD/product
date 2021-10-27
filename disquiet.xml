@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/</id>
     <title>Disquiet</title>
-    <updated>2021-10-27T05:10:51.623Z</updated>
+    <updated>2021-10-27T06:12:45.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[포인트베리]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.650Z</updated>
+        <updated>2021-10-27T06:12:31.063Z</updated>
         <content type="html"><![CDATA[일상 속에서 사용하는 다양한 종류의 앱들을  사용만해도 포인트가 적립됩니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[되는시간]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.651Z</updated>
+        <updated>2021-10-27T06:12:31.063Z</updated>
         <content type="html"><![CDATA[한국의 Calendly, 미팅시간 잡는 SaaS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sphiros]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.652Z</updated>
+        <updated>2021-10-27T06:12:31.064Z</updated>
         <content type="html"><![CDATA[VC, 투자자, 리드 등을 하나의 인터페이스로 빠르게, 한번에]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데일리비트]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.656Z</updated>
+        <updated>2021-10-27T06:12:31.065Z</updated>
         <content type="html"><![CDATA[암호화폐 적립식 자동매매 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플랜타이머]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.656Z</updated>
+        <updated>2021-10-27T06:12:31.067Z</updated>
         <content type="html"><![CDATA[원하는 플랜을 얼마동안 진행하는지 체크해주는 스케쥴러 및 타이머입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DoVie]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.657Z</updated>
+        <updated>2021-10-27T06:12:31.068Z</updated>
         <content type="html"><![CDATA[딥러닝 기반 클라우드 영상 편집 솔루션 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유어링크]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.658Z</updated>
+        <updated>2021-10-27T06:12:31.069Z</updated>
         <content type="html"><![CDATA[북마크보다 손쉽게 웹사이트를 보관하고 정리하세요.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cigro]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.659Z</updated>
+        <updated>2021-10-27T06:12:31.070Z</updated>
         <content type="html"><![CDATA[이커머스 판매/광고 데이터 통합 대시보드 솔루션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[30Percent]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.659Z</updated>
+        <updated>2021-10-27T06:12:31.072Z</updated>
         <content type="html"><![CDATA[내 중고명품 직거래말고 빠르게 선불급 지급!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[밥식구]]></title>
         <id>https://disquiet.io/</id>
         <link href="https://disquiet.io/"/>
-        <updated>2021-10-27T05:10:39.660Z</updated>
+        <updated>2021-10-27T06:12:31.073Z</updated>
         <content type="html"><![CDATA[여럿이서 스와이프로 빠르게 결정하는 위치기반 식당 정보 플랫폼]]></content>
     </entry>
 </feed>
