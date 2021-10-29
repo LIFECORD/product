@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-10-29T13:17:47.961Z</updated>
+    <updated>2021-10-29T14:10:11.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[(news.hada.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
-        <id>https://news.hada.io/topic?id=5125</id>
-        <link href="https://news.hada.io/topic?id=5125"/>
-        <updated>2021-10-13T08:12:10.478Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 소쿠리캣]]></title>
         <id>https://news.hada.io/topic?id=4960</id>
         <link href="https://news.hada.io/topic?id=4960"/>
         <updated>2021-10-13T08:12:10.489Z</updated>
         <content type="html"><![CDATA[(sokuricat.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
+        <id>https://news.hada.io/topic?id=5125</id>
+        <link href="https://news.hada.io/topic?id=5125"/>
+        <updated>2021-10-13T08:12:10.478Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: Roadroller - 자바스크립트 데모용 코드 패커]]></title>
