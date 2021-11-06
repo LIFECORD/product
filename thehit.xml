@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2021-11-06T11:08:50.460Z</updated>
+    <updated>2021-11-06T12:14:48.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Alter Ego]]></title>
+        <id>https://the-hit.co/services/1MD0919hrIHpvawQ1RLd</id>
+        <link href="https://the-hit.co/services/1MD0919hrIHpvawQ1RLd"/>
+        <updated>2021-11-06T12:14:25.994Z</updated>
+        <content type="html"><![CDATA[나만의 가상 자아 만들기 시뮬레이터]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위세스]]></title>
         <id>https://the-hit.co/services/YUiMnzSEESWiCwAMY0EP</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU"/>
         <updated>2021-09-27T21:44:39.004Z</updated>
         <content type="html"><![CDATA[가사도우미 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘수거]]></title>
-        <id>https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4</id>
-        <link href="https://the-hit.co/services/T12ky9fBVyCM8oUZNVo4"/>
-        <updated>2021-09-27T21:44:39.004Z</updated>
-        <content type="html"><![CDATA[런드리고 쓰레기 버전, 비대면 생활폐기물 수거 서비스]]></content>
     </entry>
 </feed>
