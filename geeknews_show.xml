@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-07T01:56:31.236Z</updated>
+    <updated>2021-11-07T02:27:51.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: GeekNews Show 공개]]></title>
-        <id>https://news.hada.io/topic?id=4828</id>
-        <link href="https://news.hada.io/topic?id=4828"/>
-        <updated>2021-10-13T08:12:10.485Z</updated>
-        <content type="html"><![CDATA[(news.hada.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 진짜로 쓸 만한 SaaS 툴들을 큐레이션 합니다.]]></title>
         <id>https://news.hada.io/topic?id=4846</id>
         <link href="https://news.hada.io/topic?id=4846"/>
         <updated>2021-10-13T08:12:10.484Z</updated>
         <content type="html"><![CDATA[(saas.relate.kr)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GeekNews Show 공개]]></title>
+        <id>https://news.hada.io/topic?id=4828</id>
+        <link href="https://news.hada.io/topic?id=4828"/>
+        <updated>2021-10-13T08:12:10.485Z</updated>
+        <content type="html"><![CDATA[(news.hada.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: EasyLogic Studio]]></title>
