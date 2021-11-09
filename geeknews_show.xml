@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-09T14:10:21.504Z</updated>
+    <updated>2021-11-09T15:13:10.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
-        <id>https://news.hada.io/topic?id=5292</id>
-        <link href="https://news.hada.io/topic?id=5292"/>
-        <updated>2021-10-31T04:12:46.044Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
         <id>https://news.hada.io/topic?id=5255</id>
         <link href="https://news.hada.io/topic?id=5255"/>
         <updated>2021-10-25T07:11:07.107Z</updated>
         <content type="html"><![CDATA[(heybunny.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
+        <id>https://news.hada.io/topic?id=5292</id>
+        <link href="https://news.hada.io/topic?id=5292"/>
+        <updated>2021-10-31T04:12:46.044Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: GeekNews Show 공개]]></title>
-        <id>https://news.hada.io/topic?id=4828</id>
-        <link href="https://news.hada.io/topic?id=4828"/>
-        <updated>2021-10-13T08:12:10.485Z</updated>
-        <content type="html"><![CDATA[(news.hada.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 진짜로 쓸 만한 SaaS 툴들을 큐레이션 합니다.]]></title>
         <id>https://news.hada.io/topic?id=4846</id>
         <link href="https://news.hada.io/topic?id=4846"/>
@@ -125,13 +118,6 @@
         <content type="html"><![CDATA[(lifthrasiir.github.io)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 쿤데라 - 문장 공유 서비스]]></title>
-        <id>https://news.hada.io/topic?id=4830</id>
-        <link href="https://news.hada.io/topic?id=4830"/>
-        <updated>2021-10-13T08:12:10.491Z</updated>
-        <content type="html"><![CDATA[(kundera.so)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
         <id>https://news.hada.io/topic?id=5125</id>
         <link href="https://news.hada.io/topic?id=5125"/>
@@ -144,5 +130,19 @@
         <link href="https://news.hada.io/topic?id=4900"/>
         <updated>2021-10-13T08:12:10.491Z</updated>
         <content type="html"><![CDATA[(play.google.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: GeekNews 비공식 Telegram Channel]]></title>
+        <id>https://news.hada.io/topic?id=4842</id>
+        <link href="https://news.hada.io/topic?id=4842"/>
+        <updated>2021-11-09T15:13:09.407Z</updated>
+        <content type="html"><![CDATA[(t.me)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 드로우비트 - 기업 경품 이벤트 모음]]></title>
+        <id>https://news.hada.io/topic?id=4858</id>
+        <link href="https://news.hada.io/topic?id=4858"/>
+        <updated>2021-11-09T15:13:09.409Z</updated>
+        <content type="html"><![CDATA[(drawbeat.com)]]></content>
     </entry>
 </feed>
