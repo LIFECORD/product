@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2021-11-10T01:55:54.158Z</updated>
+    <updated>2021-11-10T02:25:32.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[분리수GO]]></title>
+        <id>https://the-hit.co/services/YQu57ye2qQmBW51oaZGP</id>
+        <link href="https://the-hit.co/services/YQu57ye2qQmBW51oaZGP"/>
+        <updated>2021-11-10T02:25:12.635Z</updated>
+        <content type="html"><![CDATA[비대면 생활 폐기물 처리 서비스 분리수GO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alter Ego]]></title>
         <id>https://the-hit.co/services/1MD0919hrIHpvawQ1RLd</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/70AJnoRseyJ9cKLEPdlo"/>
         <updated>2021-09-27T21:44:39.004Z</updated>
         <content type="html"><![CDATA[고객센터 구축부터 상담·리뷰 관리까지, 고객센터 솔루션]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소연구소]]></title>
-        <id>https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU</id>
-        <link href="https://the-hit.co/services/p5o9g0MZHiEMqiWBafWU"/>
-        <updated>2021-09-27T21:44:39.004Z</updated>
-        <content type="html"><![CDATA[가사도우미 플랫폼]]></content>
     </entry>
 </feed>
