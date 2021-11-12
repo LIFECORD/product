@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-12T14:10:50.003Z</updated>
+    <updated>2021-11-12T15:11:17.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[(play.google.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 드로우비트 - 기업 경품 이벤트 모음]]></title>
-        <id>https://news.hada.io/topic?id=4858</id>
-        <link href="https://news.hada.io/topic?id=4858"/>
-        <updated>2021-11-09T15:13:09.409Z</updated>
-        <content type="html"><![CDATA[(drawbeat.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Flutter로 만든 주짓수 대회 점수판 - 오픈 소스]]></title>
         <id>https://news.hada.io/topic?id=4891</id>
         <link href="https://news.hada.io/topic?id=4891"/>
@@ -144,5 +137,12 @@
         <link href="https://news.hada.io/topic?id=4952"/>
         <updated>2021-11-11T15:11:15.491Z</updated>
         <content type="html"><![CDATA[(apps.apple.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악]]></title>
+        <id>https://news.hada.io/topic?id=4901</id>
+        <link href="https://news.hada.io/topic?id=4901"/>
+        <updated>2021-11-12T15:11:16.891Z</updated>
+        <content type="html"><![CDATA[(focusli.com)]]></content>
     </entry>
 </feed>
