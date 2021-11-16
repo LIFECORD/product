@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2021-11-16T09:11:09.509Z</updated>
+    <updated>2021-11-16T10:12:07.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[CompanySearch]]></title>
-        <id>https://the-hit.co/services/jMURx3vQbGeRdwztuBoK</id>
-        <link href="https://the-hit.co/services/jMURx3vQbGeRdwztuBoK"/>
-        <updated>2021-11-16T03:10:51.812Z</updated>
-        <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompanySearch]]></title>
-        <id>https://the-hit.co/services/FL5PVRVVqO5SFuL6SknD</id>
-        <link href="https://the-hit.co/services/FL5PVRVVqO5SFuL6SknD"/>
-        <updated>2021-11-16T03:10:51.820Z</updated>
-        <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompanySearch]]></title>
-        <id>https://the-hit.co/services/nFXmsTD0NNWOzymRXur2</id>
-        <link href="https://the-hit.co/services/nFXmsTD0NNWOzymRXur2"/>
-        <updated>2021-11-16T03:10:51.822Z</updated>
-        <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompanySearch]]></title>
-        <id>https://the-hit.co/services/XM4iwINTNoElgRYSahk1</id>
-        <link href="https://the-hit.co/services/XM4iwINTNoElgRYSahk1"/>
-        <updated>2021-11-16T03:10:51.823Z</updated>
-        <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CompanySearch]]></title>
-        <id>https://the-hit.co/services/jrKE1dclly07cRkjlK9J</id>
-        <link href="https://the-hit.co/services/jrKE1dclly07cRkjlK9J"/>
-        <updated>2021-11-16T03:10:51.824Z</updated>
-        <content type="html"><![CDATA[국내 최대 기업정보 플랫폼]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[CompanySearch]]></title>
         <id>https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK</id>
@@ -109,5 +74,40 @@
         <link href="https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC"/>
         <updated>2021-09-27T21:44:38.999Z</updated>
         <content type="html"><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모티너스]]></title>
+        <id>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</id>
+        <link href="https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC"/>
+        <updated>2021-11-16T10:11:46.748Z</updated>
+        <content type="html"><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프리젠트]]></title>
+        <id>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</id>
+        <link href="https://the-hit.co/services/gqQvlWi7cONs2JFivKc2"/>
+        <updated>2021-11-16T10:11:46.750Z</updated>
+        <content type="html"><![CDATA[소셜 프리젠테이션 플랫폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비보트]]></title>
+        <id>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</id>
+        <link href="https://the-hit.co/services/MFMif8MRV15aIufdNS7A"/>
+        <updated>2021-11-16T10:11:46.751Z</updated>
+        <content type="html"><![CDATA[가치소비 큐레이션 커머스 비보트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달링크]]></title>
+        <id>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</id>
+        <link href="https://the-hit.co/services/eHRbpsGjscVrxmApY0RP"/>
+        <updated>2021-11-16T10:11:46.756Z</updated>
+        <content type="html"><![CDATA[가장 쉬운 멀티링크 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바바리뷰]]></title>
+        <id>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</id>
+        <link href="https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2"/>
+        <updated>2021-11-16T10:11:46.760Z</updated>
+        <content type="html"><![CDATA[통합 미디어 리뷰 플랫폼(동영상+텍스트+사진)]]></content>
     </entry>
 </feed>
