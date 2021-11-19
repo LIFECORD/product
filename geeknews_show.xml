@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-19T14:10:45.764Z</updated>
+    <updated>2021-11-19T15:11:08.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -111,13 +111,6 @@
         <content type="html"><![CDATA[(opentutorials.org)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 스마트폰만으로 AI 만들어보기: Cre{ai}t - Teachable Machine Mobile]]></title>
-        <id>https://news.hada.io/topic?id=4900</id>
-        <link href="https://news.hada.io/topic?id=4900"/>
-        <updated>2021-10-13T08:12:10.491Z</updated>
-        <content type="html"><![CDATA[(play.google.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿]]></title>
         <id>https://news.hada.io/topic?id=5125</id>
         <link href="https://news.hada.io/topic?id=5125"/>
@@ -125,24 +118,10 @@
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: Focusli- 긴장을 풀고 집중할 수 있는 LOFI 음악]]></title>
-        <id>https://news.hada.io/topic?id=4901</id>
-        <link href="https://news.hada.io/topic?id=4901"/>
-        <updated>2021-11-12T15:11:16.891Z</updated>
-        <content type="html"><![CDATA[(focusli.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: iOS Pomodoro Timer and Relaxing Sounds 앱]]></title>
         <id>https://news.hada.io/topic?id=4952</id>
         <link href="https://news.hada.io/topic?id=4952"/>
         <updated>2021-11-11T15:11:15.491Z</updated>
         <content type="html"><![CDATA[(apps.apple.com)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: prisma-schema-import 라이브러리]]></title>
-        <id>https://news.hada.io/topic?id=4904</id>
-        <link href="https://news.hada.io/topic?id=4904"/>
-        <updated>2021-11-18T15:11:25.143Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
 </feed>
