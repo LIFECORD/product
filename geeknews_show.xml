@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-22T02:26:33.243Z</updated>
+    <updated>2021-11-22T03:11:09.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5255</id>
-        <link href="https://news.hada.io/topic?id=5255"/>
-        <updated>2021-10-25T07:11:07.107Z</updated>
-        <content type="html"><![CDATA[(heybunny.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스]]></title>
         <id>https://news.hada.io/topic?id=5223</id>
         <link href="https://news.hada.io/topic?id=5223"/>
         <updated>2021-10-19T02:28:43.660Z</updated>
         <content type="html"><![CDATA[(web.povv.net)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5255</id>
+        <link href="https://news.hada.io/topic?id=5255"/>
+        <updated>2021-10-25T07:11:07.107Z</updated>
+        <content type="html"><![CDATA[(heybunny.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조]]></title>
@@ -41,17 +41,17 @@
         <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5083</id>
-        <link href="https://news.hada.io/topic?id=5083"/>
-        <updated>2021-10-13T08:12:10.476Z</updated>
-        <content type="html"><![CDATA[(github.com)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding]]></title>
         <id>https://news.hada.io/topic?id=5292</id>
         <link href="https://news.hada.io/topic?id=5292"/>
         <updated>2021-10-31T04:12:46.044Z</updated>
+        <content type="html"><![CDATA[(github.com)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5083</id>
+        <link href="https://news.hada.io/topic?id=5083"/>
+        <updated>2021-10-13T08:12:10.476Z</updated>
         <content type="html"><![CDATA[(github.com)]]></content>
     </entry>
     <entry>
