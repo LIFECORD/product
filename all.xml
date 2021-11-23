@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 01:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 02:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -191,18 +191,18 @@
             <content:encoded><![CDATA[(github.com)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5292</link>
-            <guid>https://news.hada.io/topic?id=5292</guid>
-            <pubDate>Sun, 31 Oct 2021 04:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5091</link>
             <guid>https://news.hada.io/topic?id=5091</guid>
             <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
             <content:encoded><![CDATA[(naen-nae.shj.rip)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5292</link>
+            <guid>https://news.hada.io/topic?id=5292</guid>
+            <pubDate>Sun, 31 Oct 2021 04:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Goodreads Filter (goodreads.com에서 평점 최상의 책들 모음) (GeekNews Show)]]></title>
