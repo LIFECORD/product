@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,13 +238,6 @@
             <guid>https://news.hada.io/topic?id=4960</guid>
             <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
             <content:encoded><![CDATA[(sokuricat.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: Roadroller - 자바스크립트 데모용 코드 패커 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=4932</link>
-            <guid>https://news.hada.io/topic?id=4932</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(lifthrasiir.github.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다. (GeekNews Show)]]></title>
