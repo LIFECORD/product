@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-11-24T11:09:02.707Z</updated>
+    <updated>2021-11-24T12:16:41.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[(web.povv.net)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
-        <id>https://news.hada.io/topic?id=5255</id>
-        <link href="https://news.hada.io/topic?id=5255"/>
-        <updated>2021-10-25T07:11:07.107Z</updated>
-        <content type="html"><![CDATA[(heybunny.io)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조]]></title>
         <id>https://news.hada.io/topic?id=5165</id>
         <link href="https://news.hada.io/topic?id=5165"/>
         <updated>2021-10-13T08:12:10.465Z</updated>
         <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다.]]></title>
+        <id>https://news.hada.io/topic?id=5255</id>
+        <link href="https://news.hada.io/topic?id=5255"/>
+        <updated>2021-10-25T07:11:07.107Z</updated>
+        <content type="html"><![CDATA[(heybunny.io)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다.]]></title>
