@@ -8,7 +8,7 @@ contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
 waitForSelector = ".ServiceItemList_item__1PzdI"
 
 [disquiet]
-title = "Disquiet"
+title = "Disquiet ─ 프로덕트"
 url = "https://disquiet.io/?sort=recent&type=product"
 entrySelector = "div.sc-leCWtA.ViLGL.approved"
 titleSelector = "h3.title"
@@ -16,6 +16,15 @@ linkSelector = "*"
 contentSelector = "div.sc-cAxRSX.hrIEIs"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[disquiet_makerlog]
+title = "Disquiet ─ 메이커로그"
+url = "https://disquiet.io/?sort=recent&type=maker_log"
+entrySelector = "div.sc-ekboDZ.dCUoNS"
+titleSelector = "div.title"
+linkSelector = "*"
+contentSelector = "div.sc-hWRnYy.gzxJUm"
+waitUntil = "networkidle"
 
 [wwit]
 title = "WWIT"
