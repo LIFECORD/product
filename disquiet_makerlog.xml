@@ -1,193 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 13:23:51 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CompanySearch (THE HIT)]]></title>
-            <link>https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK</link>
-            <guid>https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK</guid>
-            <pubDate>Tue, 16 Nov 2021 03:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 기업정보 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[씨링(See-ring) (THE HIT)]]></title>
-            <link>https://the-hit.co/services/gLJR6pGViegALy9WZiN6</link>
-            <guid>https://the-hit.co/services/gLJR6pGViegALy9WZiN6</guid>
-            <pubDate>Wed, 10 Nov 2021 13:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[커플 전용 위치기반 증강현실 SNS]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[분리수GO (THE HIT)]]></title>
-            <link>https://the-hit.co/services/YQu57ye2qQmBW51oaZGP</link>
-            <guid>https://the-hit.co/services/YQu57ye2qQmBW51oaZGP</guid>
-            <pubDate>Wed, 10 Nov 2021 02:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[비대면 생활 폐기물 처리 서비스 분리수GO]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Alter Ego (THE HIT)]]></title>
-            <link>https://the-hit.co/services/1MD0919hrIHpvawQ1RLd</link>
-            <guid>https://the-hit.co/services/1MD0919hrIHpvawQ1RLd</guid>
-            <pubDate>Sat, 06 Nov 2021 12:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[나만의 가상 자아 만들기 시뮬레이터]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위세스 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/YUiMnzSEESWiCwAMY0EP</link>
-            <guid>https://the-hit.co/services/YUiMnzSEESWiCwAMY0EP</guid>
-            <pubDate>Mon, 18 Oct 2021 16:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[B2B 비즈니스 소싱 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TMM (THE HIT)]]></title>
-            <link>https://the-hit.co/services/gkW8wqqXiSfEI0WmkVrF</link>
-            <guid>https://the-hit.co/services/gkW8wqqXiSfEI0WmkVrF</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[휠체어 이용자의 이동권 개선을 위한 어플리케이션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAGON (THE HIT)]]></title>
-            <link>https://the-hit.co/services/xYx4Q4tUi4hhGm13eVmj</link>
-            <guid>https://the-hit.co/services/xYx4Q4tUi4hhGm13eVmj</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[내 옷장에서부터 시작하는 나만의 의류 생활 공간]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[dio (디오) (THE HIT)]]></title>
-            <link>https://the-hit.co/services/IUB0FTZ44CjvbDEyPdab</link>
-            <guid>https://the-hit.co/services/IUB0FTZ44CjvbDEyPdab</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[나를 이해하는 사람에게 조언을 들어보세요]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바뱌 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</link>
-            <guid>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[AI 추천 육아용품 중고마켓 | 아기 울음소리 분석]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 폼 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</link>
-            <guid>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모티너스 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</link>
-            <guid>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프리젠트 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</link>
-            <guid>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 프리젠테이션 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비보트 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</link>
-            <guid>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[가치소비 큐레이션 커머스 비보트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달링크 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</link>
-            <guid>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[가장 쉬운 멀티링크 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바바리뷰 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</link>
-            <guid>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[통합 미디어 리뷰 플랫폼(동영상+텍스트+사진)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어몽 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[내게 맞는 PT 구하기 &amp; 비대면 PT]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엣세이 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[웹소설 리뷰, 커뮤니티 앱 서비스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팔라고 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 쿠폰 중고거래, 이제 안전하게 거래하자]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[리본택시 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[지역과 상생하는 택시 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Hugging Face (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[머신 러닝 오픈소스 공유 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NFTers (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[NFT 소유자들의 프라이빗 모임]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[DAO Masters (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[Explore the tools to  launch, manage, and grow a DAO]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시그널플래너 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[쉽고 편한 보험 관리]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[mvvvclub 뭅클럽 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[건강한 라이프 스타일을 가진 MZ세대의 새로운 운동 아지트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터브러쉬 (Disquiet ─ 프로덕트)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[텍스트만으로 디자인 3초 완성!]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프로덕트 만들기 시작! (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[슈퍼코더는 역량이 검증된 해외 개발자 분들을 한국 고객들이 리모트 형태로 채용할 수 있는 Tech HR Platform 서비스 입니다.
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+    <title>Disquiet ─ 메이커로그</title>
+    <updated>2021-11-27T13:23:51.960Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[프로덕트 만들기 시작!]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.698Z</updated>
+        <content type="html"><![CDATA[슈퍼코더는 역량이 검증된 해외 개발자 분들을 한국 고객들이 리모트 형태로 채용할 수 있는 Tech HR Platform 서비스 입니다.
 저희 서비스의 독특한 점이라고 하면 HR Platform을 만들기 전에 100% 매뉴얼 및 오퍼레이션 중심으로 서비스를 운영하고 있다는 점입니다. 
 
 저희가 처음부터 플랫폼을 만들지 않았던 이유는 세 가지 입니다.
@@ -197,14 +20,14 @@
 
 감사하게도 지난 3개월 동안 플랫폼 없이 저희 서비스의 사업성이 검증 되었고 (월 매출 1억원 가까이 발생), 고객사에게 많은 피드백을 받았고 (negative 피드백 위주), 국내 고객사와 해외 개발자를 리모트 형태로 매칭해주는 과정에서 어떤 부분들을 자동화 하면 좋을지 더 확신을 가지게 되었습니다.
 
-정리하자면, 스타트업 또는 사업을 하기 전에 무조건 프로덕트가 있을 필요가 없다고 생각이 들고, 고객이 생긴다면 고객의 목소리를 듣고 그들의 pain point를 해결해주는 프로덕트를 만드는 방법도 좋다고 생각합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모두가 모르고 있었던 디스콰이엇의 비밀 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[디스콰이엇도 신입 소프트웨어 엔지니어가 있다는 비밀 아닌 비밀, 알고 계셨나요?
+정리하자면, 스타트업 또는 사업을 하기 전에 무조건 프로덕트가 있을 필요가 없다고 생각이 들고, 고객이 생긴다면 고객의 목소리를 듣고 그들의 pain point를 해결해주는 프로덕트를 만드는 방법도 좋다고 생각합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두가 모르고 있었던 디스콰이엇의 비밀]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.698Z</updated>
+        <content type="html"><![CDATA[디스콰이엇도 신입 소프트웨어 엔지니어가 있다는 비밀 아닌 비밀, 알고 계셨나요?
 
 그 신입 소프트웨어 엔지니어에 대해 간단히 소개해볼까 합니다.
 
@@ -247,14 +70,14 @@
 
 디스콰이엇이 좋은 취지와 비전을 가지고 성장해서 좋은 영향력을 많은 분들과 공유해나갔으면 좋겠습니다.
 
-디스콰이엇 신입 소프트웨어 엔지니어로서, 저도 같이 배우면서 성장해나가겠습니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이번 주 메이커로그 베타 유저 인터뷰를 통해 배운 점들 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[어제 오늘 유저 인터뷰를 통해 디스콰이엇 내에서 메이커프로필을 만들고 이를 다른 곳에 공유할 수 있다는 점이 매력적인데 이에 대한 설명이 부족해 현재 사람들이 모르는걸 깨달았다. 디스콰이엇 메이커프로필은 자신이 프로덕트를 만드는 과정을 타임라인 형식으로 보여준다. 디스콰이엇에서 만든 메이커프로필로부터 표현할 수 있는 것은 2가지가 있다.
+디스콰이엇 신입 소프트웨어 엔지니어로서, 저도 같이 배우면서 성장해나가겠습니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이번 주 메이커로그 베타 유저 인터뷰를 통해 배운 점들]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.698Z</updated>
+        <content type="html"><![CDATA[어제 오늘 유저 인터뷰를 통해 디스콰이엇 내에서 메이커프로필을 만들고 이를 다른 곳에 공유할 수 있다는 점이 매력적인데 이에 대한 설명이 부족해 현재 사람들이 모르는걸 깨달았다. 디스콰이엇 메이커프로필은 자신이 프로덕트를 만드는 과정을 타임라인 형식으로 보여준다. 디스콰이엇에서 만든 메이커프로필로부터 표현할 수 있는 것은 2가지가 있다.
 
 1) 내가 어디서 무엇을 하고 어떤 분야에 관심이 있는 사람인지 간략하게 설명
 2) 그동안 프로덕트를 만들면서 어떤 가설을 설정하고 어떤 방식으로 검증해 왔는지, 그리고 우리가 일하는 방식은 어떤지를 타임라인 형태로 표현
@@ -271,14 +94,14 @@
 - 긱뉴스 대표님 회고글: https://news.hada.io/blog/geeknews_1year
 - VCNC 대표님 회고글: https://blog.vcnc.co.kr
 
-디스콰이엇 메이커로그 초기 use case를 이 방향으로 쌓아나가보면 좋을 것 같다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[생산적 책읽기 50을 읽은 후, 인상 깊은 문장과 그에 대한 나의 생각 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA["우리 조상들은 몇 권 안되는 책으로도 세상 살이에 필요한 지혜와 가치관들을 쌓아갔지만 지금의 우리들은 서점에 넘쳐나는 책의 홍수 속에서도 가치관은 커녕 오히려 물질에 종속되어 정신적 피로감만 쌓으며 살아간다." 
+디스콰이엇 메이커로그 초기 use case를 이 방향으로 쌓아나가보면 좋을 것 같다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생산적 책읽기 50을 읽은 후, 인상 깊은 문장과 그에 대한 나의 생각]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.698Z</updated>
+        <content type="html"><![CDATA["우리 조상들은 몇 권 안되는 책으로도 세상 살이에 필요한 지혜와 가치관들을 쌓아갔지만 지금의 우리들은 서점에 넘쳐나는 책의 홍수 속에서도 가치관은 커녕 오히려 물질에 종속되어 정신적 피로감만 쌓으며 살아간다." 
 
 문장에 많은 공감이 된다. 현대 사회가 훨씬 더 복잡해진 것을 감안하더라도 대부분의 사람들은, 특히 내 또래의 젊은 사람들이나 청소년들의 독서량이 줄어든 것과 그들이 뚜렷하지 못한 자기 주관을 가진 것에는 분명히 상관 관계가 있다고 생각한다. 어린 시절부터 책을 가깝게 할 수 있는 환경을 만들어주어야 하지 않을까 싶다. 요즘 트렌드가 디지털이라고 해서 공교육마저 디지털로 가야하는 것일까? 디지털 교육에서 가장 많이 쓰이는 수단인 비디오 형식은 눈과 귀를 모두 사로잡는 특성을 가지고 있어 상상의 여지를 대폭 줄인다는 단점이 있다고 생각한다. 디지털이 불가피한 상황이니 그만큼 글 형식의 콘텐츠를 활용해야 한다. 그리고 학생들 스스로 생각하고 상상할 수 있도록 유도해야 한다.
 
@@ -522,14 +345,14 @@
 47. 자신의 헤드 디스크를 매력있게 채워가라
 48. 지식 부자가 진짜 부자다
 49. 새로운 정보를 위해 머리를 비워두라
-50. 자기만의 독서법을 써보라]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SNS와 SEO로만 마케팅하기 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[그 동안 혼자 10개 가량의 제품을 만들고 테스트하고 없애고 했던 것 같습니다.
+50. 자기만의 독서법을 써보라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS와 SEO로만 마케팅하기]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.698Z</updated>
+        <content type="html"><![CDATA[그 동안 혼자 10개 가량의 제품을 만들고 테스트하고 없애고 했던 것 같습니다.
 
 근데 매번 느끼는 건 "유저 1명 회원가입 시키기 정말 어렵다" 입니다. 잠재고객들을 웹사이트에 데려오는 것도 어려운데, 유저가 스스로 정말 필요하지 않으면 회원가입을 절대로 하지 않기 때문입니다.
 
@@ -566,14 +389,14 @@
 드로우비트
 오늘도 누군가는 경품에 당첨됐다
 
-웹사이트: https://drawbeat.com]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그래서 도대체 PO가 뭐 하는 사람이라고요? (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[📌 본 글은 그로우앤베터 프로페셔널 리더 양효선 PO의 기고문입니다. 
+웹사이트: https://drawbeat.com]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래서 도대체 PO가 뭐 하는 사람이라고요?]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.713Z</updated>
+        <content type="html"><![CDATA[📌 본 글은 그로우앤베터 프로페셔널 리더 양효선 PO의 기고문입니다. 
 ---
 10년 전만 해도 매우 생소했던 그렇지만 지금은 IT업계에서 필수 불가결한 “PO (Product Owner)란 무엇인가"
 
@@ -593,14 +416,14 @@ PO의 메인 역할은, 메이커(개발자&amp;디자이너)와 한팀을 이�
 
 여기서 중요한 건, PO는 누군가의 요구사항을 받아서 단순히 우선순위만 매기는 사람이 아니라는 것입니다. 일반 기획자가 PO 포지션에 지원을 했을때, 전 꼭 이 말을 합니다. PO는 내 프로덕트에 대한 요구사항을 스스로 만들어낼 수 있어야 한다고.
 
-✅ 전문이 궁금하시다면? https://bit.ly/310P4ew]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고객이 관점에서의 프로덕트 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[Sales를 하는 입장에서 고객이 저희의 IT Service 또는 Product를 어떻게 인지 하고 있는지를 파악하는 것이 매우 중요하다고 생각합니다.
+✅ 전문이 궁금하시다면? https://bit.ly/310P4ew]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고객이 관점에서의 프로덕트]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.713Z</updated>
+        <content type="html"><![CDATA[Sales를 하는 입장에서 고객이 저희의 IT Service 또는 Product를 어떻게 인지 하고 있는지를 파악하는 것이 매우 중요하다고 생각합니다.
 고객의 목소리를 듣다보면 고객이 표면적으로 제시하는 pain point가 아닌 스스로 인지를 못하는 숨겨진 needs 또는 pain point를 파악할 수 있게 되고 이러한 insight를 통해 저희 Product가 어떻게 만들어져야 되는지에 대한 고민을 할 수 있게 되는데요.
 예를 들어서, 세컨드팀이 만들고 있는 슈퍼코더 서비스는 개발자 공급 부족 문제를 해결하기 위해 역량이 검증된 해외 개발자 분들을 리모트 형태로 채용할 수 있는 HR Platform인데요.
 저희가 만나는 고객분들 대다수는 처음 미팅 때 "한국에서 개발자 채용이 어려워요" 라는 표면적인 pain point를 말씀해주십니다.
@@ -608,14 +431,14 @@ PO의 메인 역할은, 메이커(개발자&amp;디자이너)와 한팀을 이�
 더 구체적으로는, "사업의 속도를 내고 싶은데 개발자 채용이 안되니까 속도가 나지 않는다" 라는 문제가 핵심인 것 같은데요.
 그래서 저희는 "국내 개발자 채용이 어려우니 해외 개발자 분을 채용하세요" 가 아닌 사업의 속도를 내기 위해서는 "역량이 뛰어난 해외 개발자 분을 채용하세요" 라는 key message를 전달합니다.
 실제로 이러한 message를 전달한 후로 부터는 sales의 hit ratio도 개선이 되었고 저희 프로덕트의 방향성도 단순히 채용 문제를 해결하는 것이 아닌 "어떻게 고객이 개발자를 채용해서 사업의 속도를 더 낼 수 있을까?" 의 고민을 녹여내는 방향으로 바뀌었습니다.
-정리하자면, 내가 만들고자 하는 프로덕트를 만들고 고객이 좋아해주기를 바라는 것 보다는 고객의 숨겨진 pain point를 파악해서 이 문제를 해결해주는 프로덕트를 만드는 것이 세일즈에도 도움이 되고 좋은 product가 될 수 있다고 생각합니다]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스타트업을 위한 와이콤비네이터의 필수 조언 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[Lesson &amp; Learn
+정리하자면, 내가 만들고자 하는 프로덕트를 만들고 고객이 좋아해주기를 바라는 것 보다는 고객의 숨겨진 pain point를 파악해서 이 문제를 해결해주는 프로덕트를 만드는 것이 세일즈에도 도움이 되고 좋은 product가 될 수 있다고 생각합니다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업을 위한 와이콤비네이터의 필수 조언]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.716Z</updated>
+        <content type="html"><![CDATA[Lesson &amp; Learn
 - 라면을 끓일때 엄청난 비법이 필요하기 보단 조차 정량의 물을 넣고, 레시피에 주어진 시간만큼 끓이는 것이 중요하듯  기본적인 조언이지만 스타트업 경영과 성장 역시도 필수적인 것을 지키지 않았을 때 크리티컬 한 만큼 한번 쯤 리마인드 해볼만한 내용들.
 - 개인적으로 인상 깊었던 부분들을 정리하면 "고객과 대화하고&gt;제품을 만들고&gt;가설 검증을 빠르고 반복해서 진행한다."
 - (메이커들과 많이 싸워야 겠지만) 완벽한 제품을 만드는 것보단 그들이 정의한 문제가 진짜 문제인지, 어떻게 하면 고객이 정말로 우리 솔루션을 원하는지를 확인 하는게 포인트,
@@ -652,23 +475,23 @@ PO의 메인 역할은, 메이커(개발자&amp;디자이너)와 한팀을 이�
 
 
 
-https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice?fbclid=IwAR1rXxY4mvZexb0oeWdOFH9kZ8toYDRo1Rz-I5HNX_4COvanfPzju6d_5rw]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[좋은 디자인의 3가지 요소 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[1) Affordance: Object가 어떻게 사용이 될 수 있는지를 알려주는 것. Affordance가 잘 고려된 제품은 사용자가 보기만 해도 어떻게 사용해야 될 지 쉽게 알 수 있다.
+https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice?fbclid=IwAR1rXxY4mvZexb0oeWdOFH9kZ8toYDRo1Rz-I5HNX_4COvanfPzju6d_5rw]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 디자인의 3가지 요소]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.717Z</updated>
+        <content type="html"><![CDATA[1) Affordance: Object가 어떻게 사용이 될 수 있는지를 알려주는 것. Affordance가 잘 고려된 제품은 사용자가 보기만 해도 어떻게 사용해야 될 지 쉽게 알 수 있다.
 2) Signifier: Input을 주었을 때 어떤 output이 있을지를 미리 알려주는 것.
-3) Feedback: Input을 주었을 때 나타나는 반응.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프로덕트 성공 확률을 높이는 방법 (Disquiet ─ 메이커로그)]]></title>
-            <link>https://LIFECORD.github.io/product/all.xml</link>
-            <guid>https://LIFECORD.github.io/product/all.xml</guid>
-            <pubDate>Sat, 27 Nov 2021 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[프로덕트 성공 확률에는 2가지 변수가 영향을 미칩니다. 메이커의 무엇이든 빠르게 배우는 역량과 운입니다. 
+3) Feedback: Input을 주었을 때 나타나는 반응.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로덕트 성공 확률을 높이는 방법]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-11-27T13:23:39.719Z</updated>
+        <content type="html"><![CDATA[프로덕트 성공 확률에는 2가지 변수가 영향을 미칩니다. 메이커의 무엇이든 빠르게 배우는 역량과 운입니다. 
 
 유명한 창업자들의 다수가 대학교때 창업하거나 아니면 큰 조직생활을 해보지 않고 창업을 했습니다. 그렇기 때문에 경험도 없고 창업에 필요한 영업, 회계, 마케팅, 운영 등 다수의 영역에 대해서 아는 것이 없지만 빠른 학습 역량을 바탕으로 모르는 영역을 채워나가면서 프로덕트를 성공시켜나갔습니다.
 
@@ -713,155 +536,6 @@ https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice?fbclid=IwAR
 [2] Drew Houston 창업스토리 - https://www.youtube.com/watch?v=YmPCy_SXuuQ
 [3] 오프라 윈프리가 트위터에 미친 영향 - https://techcrunch.com/2009/04/20/how-many-new-twitter-users-post-oprah-a-lot-maybe-over-a-million/
 [4] 파인먼 테크닉 - https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230
-[5] Testing Effect - https://en.wikipedia.org/wiki/Testing_effect]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오웹툰 (WWIT)]]></title>
-            <link>https://wwit.design/2021/09/16/kakaowebtoon/</link>
-            <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[entertainment]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/kw/kw_splash.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡 (WWIT)]]></title>
-            <link>https://wwit.design/2021/07/27/coupang/</link>
-            <guid>https://wwit.design/2021/07/27/coupang/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[shopping]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뤼이드 튜터 (WWIT)]]></title>
-            <link>https://wwit.design/2021/07/26/ruiiidtutor/</link>
-            <guid>https://wwit.design/2021/07/26/ruiiidtutor/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[education]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카닥 (WWIT)]]></title>
-            <link>https://wwit.design/2021/07/11/cardoc/</link>
-            <guid>https://wwit.design/2021/07/11/cardoc/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[캐시슬라이드 (WWIT)]]></title>
-            <link>https://wwit.design/2021/07/10/cashslide/</link>
-            <guid>https://wwit.design/2021/07/10/cashslide/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5335</link>
-            <guid>https://news.hada.io/topic?id=5335</guid>
-            <pubDate>Sun, 07 Nov 2021 07:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[(hexoul.github.io)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5305</link>
-            <guid>https://news.hada.io/topic?id=5305</guid>
-            <pubDate>Tue, 02 Nov 2021 05:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[(yacht.seokmin.dev)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 한·중·일 전산학 용어 대조 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5165</link>
-            <guid>https://news.hada.io/topic?id=5165</guid>
-            <pubDate>Sat, 09 Oct 2021 05:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[(cjk-compsci-terms.netlify.app)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5223</link>
-            <guid>https://news.hada.io/topic?id=5223</guid>
-            <pubDate>Tue, 19 Oct 2021 02:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[(web.povv.net)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다. (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5255</link>
-            <guid>https://news.hada.io/topic?id=5255</guid>
-            <pubDate>Mon, 25 Oct 2021 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[(heybunny.io)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: NocoDB : 오픈 소스 Airtable을 소개합니다. (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5083</link>
-            <guid>https://news.hada.io/topic?id=5083</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 낸내 - 라이선스 걱정 없는 한글 폰트 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5091</link>
-            <guid>https://news.hada.io/topic?id=5091</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(naen-nae.shj.rip)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: kiwigo - 한글 형태소 분석기인 kiwi의 go binding (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5292</link>
-            <guid>https://news.hada.io/topic?id=5292</guid>
-            <pubDate>Sun, 31 Oct 2021 04:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: Goodreads Filter (goodreads.com에서 평점 최상의 책들 모음) (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=4995</link>
-            <guid>https://news.hada.io/topic?id=4995</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(goodreadsfilter.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: Screen Recorder (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=4981</link>
-            <guid>https://news.hada.io/topic?id=4981</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: EasyLogic Studio (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=4969</link>
-            <guid>https://news.hada.io/topic?id=4969</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(easylogic.studio)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5141</link>
-            <guid>https://news.hada.io/topic?id=5141</guid>
-            <pubDate>Tue, 05 Oct 2021 07:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[(atend.ai)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 소쿠리캣 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=4960</link>
-            <guid>https://news.hada.io/topic?id=4960</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[(sokuricat.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다. (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5217</link>
-            <guid>https://news.hada.io/topic?id=5217</guid>
-            <pubDate>Mon, 18 Oct 2021 03:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[(opentutorials.org)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5125</link>
-            <guid>https://news.hada.io/topic?id=5125</guid>
-            <pubDate>Sat, 02 Oct 2021 08:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: iOS Pomodoro Timer and Relaxing Sounds 앱 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=4952</link>
-            <guid>https://news.hada.io/topic?id=4952</guid>
-            <pubDate>Thu, 11 Nov 2021 15:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[(apps.apple.com)]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+[5] Testing Effect - https://en.wikipedia.org/wiki/Testing_effect]]></content>
+    </entry>
+</feed>
