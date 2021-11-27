@@ -15,7 +15,6 @@ titleSelector = "h3.title"
 linkSelector = "*"
 contentSelector = "div.sc-cAxRSX.hrIEIs"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [disquiet_makerlog]
 title = "Disquiet ─ 메이커로그"
