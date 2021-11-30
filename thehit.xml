@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2021-11-30T03:07:01.738Z</updated>
+    <updated>2021-11-30T04:06:34.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Outcode]]></title>
+        <id>https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ</id>
+        <link href="https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ"/>
+        <updated>2021-11-30T04:06:00.241Z</updated>
+        <content type="html"><![CDATA[문서에서 바로 개발. Develop-on-Doc.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CompanySearch]]></title>
         <id>https://the-hit.co/services/LU82ZGLg3oRDm3dv1nwK</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/eHRbpsGjscVrxmApY0RP"/>
         <updated>2021-11-16T10:11:46.756Z</updated>
         <content type="html"><![CDATA[가장 쉬운 멀티링크 서비스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바바리뷰]]></title>
-        <id>https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2</id>
-        <link href="https://the-hit.co/services/6Y82G6JKnoUzutiHxCf2"/>
-        <updated>2021-11-16T10:11:46.760Z</updated>
-        <content type="html"><![CDATA[통합 미디어 리뷰 플랫폼(동영상+텍스트+사진)]]></content>
     </entry>
 </feed>
