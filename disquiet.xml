@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2021-12-01T03:07:06.503Z</updated>
+    <updated>2021-12-01T04:08:36.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Outcode]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.986Z</updated>
+        <updated>2021-12-01T04:08:13.682Z</updated>
         <content type="html"><![CDATA[문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Surfee]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.986Z</updated>
+        <updated>2021-12-01T04:08:13.683Z</updated>
         <content type="html"><![CDATA[노코딩 랜딩페이지 제작 툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔젤라운드]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.987Z</updated>
+        <updated>2021-12-01T04:08:13.684Z</updated>
         <content type="html"><![CDATA[엔젤/프리시드 단계의 투자 심사 및 매칭 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어몽]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.987Z</updated>
+        <updated>2021-12-01T04:08:13.685Z</updated>
         <content type="html"><![CDATA[내게 맞는 PT 구하기 &amp; 비대면 PT]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엣세이]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.988Z</updated>
+        <updated>2021-12-01T04:08:13.686Z</updated>
         <content type="html"><![CDATA[웹소설 리뷰, 커뮤니티 앱 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팔라고]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.991Z</updated>
+        <updated>2021-12-01T04:08:13.688Z</updated>
         <content type="html"><![CDATA[모바일 쿠폰 중고거래, 이제 안전하게 거래하자]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리본택시]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.991Z</updated>
+        <updated>2021-12-01T04:08:13.689Z</updated>
         <content type="html"><![CDATA[지역과 상생하는 택시 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hugging Face]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.993Z</updated>
+        <updated>2021-12-01T04:08:13.691Z</updated>
         <content type="html"><![CDATA[머신 러닝 오픈소스 공유 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NFTers]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.994Z</updated>
+        <updated>2021-12-01T04:08:13.692Z</updated>
         <content type="html"><![CDATA[NFT 소유자들의 프라이빗 모임]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DAO Masters]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-01T03:06:45.995Z</updated>
+        <updated>2021-12-01T04:08:13.694Z</updated>
         <content type="html"><![CDATA[Explore the tools to  launch, manage, and grow a DAO]]></content>
     </entry>
 </feed>
