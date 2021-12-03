@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 14:05:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:07:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,13 +147,6 @@
             <guid>https://wwit.design/2021/07/10/cashslide/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[life]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: Show GN: Discovery platform for upcoming NFTs (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5481</link>
-            <guid>https://news.hada.io/topic?id=5481</guid>
-            <pubDate>Fri, 03 Dec 2021 11:05:33 GMT</pubDate>
-            <content:encoded><![CDATA[(sealaunch.xyz)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 오늘부터 전공면접 IT - 객관식 문제 제공 서비스 (GeekNews Show)]]></title>
