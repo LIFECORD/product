@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 09:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 09:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -111,6 +111,76 @@
             <guid>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</guid>
             <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
             <content:encoded><![CDATA[가장 쉬운 멀티링크 서비스]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[멤 Mem.ai (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/480d1c3b9e35cc767bad100acfc2e505d61d45f7848a6f795905879cfdb6cf0f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=76ab344e83b24791a1035efc4fce36247b2c745ea1a05e6ca2d111849ad1c5b8&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">멤 Mem.ai</h3><div class="sc-jnHOtz ipPkEC">기존 노트 앱보다 10배 더 빠른 글쓰기, 검색, 공유</div><div class="sc-kkeJPq kjtVPf"><div class="topic">🚲 생산성</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>0</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[B.Launch (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/d08ab2c2346ee03b329b177a3a5fb50e363f6acf9d94ae0aaad37e78468cec6d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=a33366021972d4d12dc24c922b186866e9ab583594b7baf993daef3b3ed3f36a&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">B.Launch</h3><div class="sc-jnHOtz ipPkEC">자신의 온라인 비즈니스를 거래하고, 커뮤니티를 통해 창업 정보를 공유하는 플랫폼</div><div class="sc-kkeJPq kjtVPf"><div class="topic">📡 중개 플랫폼 외 2개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>6</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hola (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/e182a67b68659b843b698fa6a236cc999c08c3383855bee04db2168ea7142c1b?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=ad626465d9d9ff9ce0685281fa3860c25632d98ca53b6b005c9d7928c6379e2b&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">Hola</h3><div class="sc-jnHOtz ipPkEC">개발자를 위한 스터디/프로젝트 팀 빌딩 플랫폼</div><div class="sc-kkeJPq kjtVPf"><div class="topic">📡 중개 플랫폼 외 2개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>4</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[플렉스 flex.team (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/f728dbb4c719784425dab192c208cc792d0e7bd8bb1ec48e35ecbc92556ce079?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=03709dcfed7bd0e941b655cf4ebc39fe5e21880928ce3a2c23133671ba062954&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">플렉스 flex.team</h3><div class="sc-jnHOtz ipPkEC">기업의 HR 업무를 도와주는 SaaS</div><div class="sc-kkeJPq kjtVPf"><div class="topic">🚲 생산성</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>1</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Outcode (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/566d2fd612ba98ed3d4314ff7fa46bb6e71b255572df1b5c29bae73edd43f92f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=e46fc470b2536ef8237068de1b3094996ccc12fc552e8890862940a3b4b03122&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">Outcode</h3><div class="sc-jnHOtz ipPkEC">문서작성처럼 쉽고 빠르게 업무툴 만들기. Develop-on-Doc.</div><div class="sc-kkeJPq kjtVPf"><div class="topic">🚲 생산성 외 2개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>6</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Surfee (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/39f4638a87fbec2cdef413e0ee3ab540dcfe154f3438684e8104235d6208280d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=f01f120ff4343d1365d45283615a127228e81c889b25a7982398f8bd46a9ce1e&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">Surfee</h3><div class="sc-jnHOtz ipPkEC">노코딩 랜딩페이지 제작 툴</div><div class="sc-kkeJPq kjtVPf"><div class="topic">💻 노코드 외 2개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>6</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엔젤라운드 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/6e41d8af1357803fe22f45144085e8e70be1722de115dd593d55bb1bd79a5bee?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=ae1b3182b7cc33d16c456ac8737197fdfaf2c1cac080d8f4a1b37f9c3a76e474&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">엔젤라운드</h3><div class="sc-jnHOtz ipPkEC">엔젤/프리시드 단계의 투자 심사 및 매칭 플랫폼</div><div class="sc-kkeJPq kjtVPf"><div class="topic">📡 중개 플랫폼 외 2개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>35</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[어몽 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/0e95be9c70431b20bda255c6a036cac57882abed9644c881b88cdfbfe4222bb0?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=38d221dbf29dcc80b1969a5f17d5eb198927f7f44058b7ad0a577cec9b60ae7b&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">어몽</h3><div class="sc-jnHOtz ipPkEC">내게 맞는 PT 구하기 &amp; 비대면 PT</div><div class="sc-kkeJPq kjtVPf"><div class="topic">🏃 헬스케어</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>2</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[엣세이 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/b47e6472472cd259b6a6d91e8e4374b7a8adc0725fb7dd9335fc0a712d1f9174?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=a2fc907ab54066b72fa88372a15ba9d9dca004209c39d20a65b7a2243154ff72&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">엣세이</h3><div class="sc-jnHOtz ipPkEC">웹소설 리뷰, 커뮤니티 앱 서비스</div><div class="sc-kkeJPq kjtVPf"><div class="topic">📡 중개 플랫폼 외 1개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>2</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팔라고 (Disquiet ─ 프로덕트)]]></title>
+            <link>https://LIFECORD.github.io/product/all.xml</link>
+            <guid>https://LIFECORD.github.io/product/all.xml</guid>
+            <pubDate>Sun, 05 Dec 2021 09:30:32 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="background-image: url(&quot;https://disquiet-media-prod.s3.ap-northeast-2.amazonaws.com/images/product/thumbnail/72c54de747129fd93b4270f5870ced03cd484270b8e42edfd8a42272c6d2d7ba?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAYLH4FLENK65NPGYR%2F20211205%2Fap-northeast-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20211205T060000Z&amp;X-Amz-Expires=25200&amp;X-Amz-Signature=74c9f6c5840315092ecf23c0a1894845fb91b75e7fc79fe22b8f95c0369ca055&amp;X-Amz-SignedHeaders=host&quot;); background-position: center center; background-size: cover;" class="sc-gLnrpB enUwnN"></div><div class="sc-hHKmLs dotQbH"><h3 class="title">팔라고</h3><div class="sc-jnHOtz ipPkEC">모바일 쿠폰 중고거래, 이제 안전하게 거래하자</div><div class="sc-kkeJPq kjtVPf"><div class="topic">📷 라이프스타일 외 1개</div><div class="sc-bWNSNh cphRUb"><img src="/static/media/ic_comment_bubble.7bdbcad6.svg" alt="commentIcon"><p>0</p></div></div></div>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오웹툰 (WWIT)]]></title>
