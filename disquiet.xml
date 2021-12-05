@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-05T14:05:30.846Z</updated>
+    <updated>2021-12-05T15:05:27.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[멤 Mem.ai]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-05T14:05:01.834Z</updated>
+        <updated>2021-12-05T15:04:58.986Z</updated>
         <content type="html"><![CDATA[기존 노트 앱보다 10배 더 빠른 글쓰기, 검색, 공유]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[B.Launch]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-05T14:05:01.835Z</updated>
+        <updated>2021-12-05T15:04:58.988Z</updated>
         <content type="html"><![CDATA[자신의 온라인 비즈니스를 거래하고, 커뮤니티를 통해 창업 정보를 공유하는 플랫폼]]></content>
     </entry>
 </feed>
