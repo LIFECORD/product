@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-07T17:17:55.600Z</updated>
+    <updated>2021-12-07T18:08:33.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[유즈티풀]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-07T17:17:26.522Z</updated>
+        <updated>2021-12-07T18:08:03.487Z</updated>
         <content type="html"><![CDATA[노코드 유저 튜토리얼 제작 도구]]></content>
     </entry>
 </feed>
