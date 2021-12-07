@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-07T19:05:42.662Z</updated>
+    <updated>2021-12-07T20:10:26.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[플랜즈커피]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2021-12-07T20:09:56.532Z</updated>
+        <content type="html"><![CDATA[언맨드 카페 서비스로서, UI를 활용한 새로운 경험을 전달하는 식음료 서비스를 제공]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Releaze 릴리즈]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2021-12-07T20:09:56.533Z</updated>
+        <content type="html"><![CDATA[엔터테인먼트 레이블 지원없이 콘텐츠 유통 및 활동을 지원하는 디지털 매니지먼트 서비스[Releaze]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우주특공대]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2021-12-07T20:09:56.534Z</updated>
+        <content type="html"><![CDATA[신입/주니어 채용 전 역량/성향 파악 프로그램]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왙싸인]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2021-12-07T20:09:56.535Z</updated>
+        <content type="html"><![CDATA[전자계약 서명 서비스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유즈티풀]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-07T19:05:07.904Z</updated>
+        <updated>2021-12-07T20:09:56.536Z</updated>
         <content type="html"><![CDATA[노코드 유저 튜토리얼 제작 도구]]></content>
     </entry>
 </feed>
