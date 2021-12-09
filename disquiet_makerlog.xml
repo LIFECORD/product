@@ -2,14 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
     <title>Disquiet ─ 메이커로그</title>
-    <updated>2021-12-09T01:53:50.565Z</updated>
+    <updated>2021-12-09T02:27:25.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[뉴스레터 비지니스는 스케일업 할 수 있을까?]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.264Z</updated>
+        <updated>2021-12-09T02:27:13.644Z</updated>
+        <content type="html"><![CDATA[우중 생각  
+    구독형 뉴스레터의 본질은 팬심 기반 커뮤니티 + 브랜딩 비즈니스로 몇 명이 구독하느냐 보다 우리 제품을 홍보해줄 만한 충성고객(홍보대사)이 얼마나 있고 고객 engagement 가 얼마나 높은지가 중요할 것으로 보임 → 이를 통해 팟캐스트, 유튜브, 제품(앱/웹 서비스), 스폰서드 광고, 굿즈 판매, 트레바리와 같은 밋업, 프리미엄 B2B vertical 뉴스레터 등으로 확장 가능.  
+
+    구독형 뉴스레터 콘텐츠의 강점으로 1) 영상 콘텐츠 대비 생산 비용 적고 2) 영상채널 대비 플랫폼의 콘텐츠 노출 정책 , 알고리즘의 영향  적으며 3) 광고수익 이슈로 자극적이고 허위성 콘텐츠 양산이라는 외생변수에 비교적 자유로울 수 있어 높은 콘텐츠 품질 유지할 수 있음.  
+
+    해외에서 성장한 뉴스레터 기반 비즈니스들 또한  경우 뾰족한 타깃으로 구독자 간 동질감과 효능감이 높으며 충성도 또한 높음. → 더스킴 (밀레니얼 여성), 모닝 브루 (고소득 젊은 전문직).  
+
+    이러한 구매력, 효능감, 충성도가 뒷받침됨에 따라 매력적인 광고 채널로 포지셔닝할 수 있을 것으로 보이며, 매출 대비 비교적 높은 이익률을 구현할 수 있을 것으로 보임.  
+
+    다만 영어(미국, 영국 etc)가 아닌 한국어 시장을 max 1/10이라고 가정했을 때 max 25만 ~70만 구독자의 Cap이 있지 않을지? 더불어  즉시 환금성이 없는 정보(유료 지식콘텐츠, 뉴스 큐리 에이션)에 대해  willingness to pay가 충분한지에 대한 검증 필요할 것으로 보임.  
+
+
+
+[모닝 브루]
+개요  
+    구독자 250만, (2020년 2월) 2015년 창업. → 2020 10월 Business Insider에 $75M에 인수.  
+
+    인수전까지 매우 적은 투자 유치  $750K(!) Friend and family(!)
+
+매출 2018 $3M(w 10명) → 2019 $13M(w 33명) → 인수 시점 매출 $20M에 $6M 이익 → 60명의 직원 별도 구조조정 없이 계속 일할 것으로 보임.
+
+    Morning brew, tech brew, retail brew, marketing brew 등 각 섹션별로 구독자 관리 중에 있음. why?  
+
+    일간 오픈율은 40%인데 이는 다른 잘 나가는 뉴스레터 서비스 대비 2배 이상이라고 함.(타 뉴스레터 평균 15~20%)   
+
+    따로 오리지널 콘텐츠(취재)는 당분간 하지 않고 큐리 에이션/분석에 집중할 것으로 보임.  
+
+고객  
+    daily newsletter designed for young business professionals → 초기에는 사회진출을 준비하는 대학생들을 타깃으로 만들어졌다가 사회 초년생&gt; 밀레니얼 직장인으로 확장한 것으로 보임.
+
+ 고객 페르소나는 더 똑똑해지고 싶은 28-years-old working in finance, tech, or consulting with incomes of $100,000 and higher가 30% 차지 (55%는 남성).
+
+    그날의 가장 중요한 뉴스들을 정제해서 전달하는 형태로 Wall Street essentials와 유사.  
+
+    ambassador program of 700+ students 충성고객을 바탕으로 고객 획득.    
+
+
+
+BM/확장 전략  
+    매출의 daily 뉴스에서 89%, Techbrew에서 10%, 팟캐스트를 통해 대략 1% 정도, 대부분 CPM 광고 매출로 추정. → 2019년에 총 190개의 광고를 유치했음.(2018 97개) → clients are charged for every unique reader who actually opens the email. “They get what they pay for,”
+
+ Sponsors pay for native ad placements that appear in each newsletter, both written by a Morning Brew copywriter and approved by the client → Morning generates around $200,000 per week in advertising revenue. 이러면 100억/년인데 확인 필요.
+
+    네트워킹 → The site is launching a monthly event series this summer to bring together millennials to network and watch panel discussions, which should provide the off-line community building that has proved successful for other media brands.
+
+ 팟캐스트 → 모닝 브루 구독자 중 28%가 매일 팟캐스트 들음.
+
+    굿즈 판매(이런 것도 판다고?)  
+
+
+Business insider는 왜 모닝 브루를 샀을까?  
+    재능 인수(뉴스레터, 팟캐스트 운영 경험)  + 25M young professional 구독자 인수   
+
+    business insider대표에 따르면 이메일 비즈니스에 대한 경험, 강력한 팟캐스트 채널 및 콘텐츠를 보유한 팀이 필요했던 것으로 보임.  
+
+   모닝 브루의 팟캐스트 채널 3.5개월 만에 1M 다운로드 매우 빠르게 성장 중 → 요거는 추가로 읽어보면 좋을 듯.
+
+$25M 무료 구독자들의 유료 전환에 대한 기대감 존재.
+
+    Business insider는 기존 클릭률을 높이기 위한 자극적인 선전지의 비중도 높았으나 조금 더 정론지 쪽으로 포지셔닝 희망했는데, 이러한 브랜딩에 모닝 브루 도움된다고 판단한 것으로 보임.  
+
+    판데믹 상황에서 다른 뉴스레터 서비스들은 임금 삭감 or 구조조정을 단행했으나 모닝 브루는 건강하게 생존함. how? → 아마 자체 콘텐츠 제작이나, 다른 앱/웹 서비스 개발이 아닌 콘텐츠 큐리 에이션과 인사이트 도출, 즉 핵심역량에만 집중한 결과 적은 인원으로 운영할 수 있어 높은 수익률 유지할 수 있었던 것으로 보임.  
+
+[더 스킴]
+
+
+개요  
+700만 구독자(2019) ,2011년 창업
+
+$28.4M 투자( Google Ventures, 21st Century Fox and RRE Ventures etc)
+
+2016년 3.5M 구독자, 40%의 뉴스레터 오픈율로 $8.5M 투자, 20명의 팀원, IOS only → 당시 수익모델은 브랜디드 콘텐츠와 캘린더 서비스.
+
+$12 시리즈 C , android 앱, 팟캐스트
+
+현재 3만 명의 Skimm bassador를 운영하고 있으며 그들은 skimm의 충성고객으로서 최소 10명 이상의 뉴스레터로 유입 유도한 고객으로 그들에게 정기적으로 굿즈 제공, 인턴쉽 기회 제공 등 적극적으로 커뮤니티 운영 중에 있음.
+80% 구독자는 여성이며 그들 중 절반은 밀레니얼.
+
+$20M -$30M 매출(2019)
+
+2019년 $100M 밸류 30M 펀드레이징 진행.
+
+코로나 위기로 20% (130명) 구조조정 → 팀 원수 650명이었던 것 같은데 아마 직접 취재, 팟캐스트, 캘린더 등 다양한 섹터를 관리해서로 보임.
+버즈피드 등 많은 디지털 광고 중심의 미디어에서 또한 임금 삭감, 구조조정 등을 단행함.
+
+밀레니얼의 시간을 관리하고 점유하는 서비스로 나아가고자 하는 것으로 보임.
+
+
+팟캐스트  
+the skimm 대부분 오전 시간대 오픈 → 노출시간에 대한 확장 필요.
+
+10분가량의 콘텐츠.
+
+밀레니얼 여성들의 24% 팟캐스트로 뉴스 구독. → 그중 60%가 매일 팟캐스트 청취.
+
+헬스장에서 운동을 하거나 자가용으로 집으로 돌아가거나 저녁 준비하는 시간인 오후 5시 업로드
+
+맥락(context)과 명료함(clarity), 뉴스는 복잡한 이슈와 이해관계가 얽혀 있어 밀레니얼들 접근하기 어려운데 무엇이 왜 중요한지 알려줌.
+
+
+BM
+Purple이라는 텍스팅 플랫폼 인수 → 유료 구독자 한정 1:1, bot-less (for now) texting service to help subscribers make decisions  
+2019년 기준으로 유료 구독자들을 대상으로 뉴스의 맥락을 Q&amp;A 할 수 있는 서비스를 론칭함 (100% 사람) 예를 들면 해당 뉴스가 구독자에게 어떤 의미를 가지는지 지식in과 유사한 형태로 서비스 제공.(Facebook messenger, SMS)
+
+실시간 답변은 아니고 대략 15~20분 소요.
+
+주로 투자, 육아, 헬스케어 관련 질문이 많은 것으로 추정.
+
+초기에 봇이 아닌 사람이 답변하는 이유는 다음과 같음 → “The technology is just not there to actually have a conversation with somebody,” she said. “[Bots] are good for a bare-bones experience and for pushing content at someone. We went straight to this human interaction because we felt the value that comes from having a 1:1 conversation is actually helping them get to a point where they can make a decision.”]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero to One - 신생기업이 승리하는 법]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-12-09T02:27:13.645Z</updated>
+        <content type="html"><![CDATA[피터틸의 제로투원을 읽을때마다 항상 리마인드되는 부분들이 있음.
+오늘 얻은 Learning은 
+
+후발주자가 시장에서 승리하기 위해서는 
+
+적어도 '10배' 뛰어나거나' 혹은 '완전 새로운 형태의 가치를 제공'해야함.
+
+
+
+"유용한 경험칙 하나를 제시하자면, 독자 기술은 가장 가까운 대체 기술보다 중요한 부분에서 '10배'는 더 뛰어나야 진정한 독점적 우위를 확보할 수 있다. 그보다 못한 개선은 지엽적인 개선으로 인식돼 가치를 인정받기 어려울 것이다. 특히나 이미 참가자들이 수두룩한 시장이라면 더욱 그렇다. 10배의 개선을 이루는 가장 확실한 방법은 '완전히 새로운 무언가를 고안해내는 것'이다. 아무것도 없던 곳에 무언가 가치 있는 것을 만들어내면, 그 가치의 증가폭은 이론상 무한대다. 예를 들어 잠을 자지 않아도 되는 안전한 약을 개발하거나 대머리 치료제를 개발한다면 독점기업이 되는 것은 식은 죽 먹기 일 것이다. 그렇지 않으면 기존의 해법을 근본적으로 개선하는 방법도 있다. 10배가 더 뛰어나면 경쟁에서 탈피할 수 있기 때문이다. "]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
+        <updated>2021-12-09T02:27:13.627Z</updated>
         <content type="html"><![CDATA[요즘은 강의 영상을 학생들이 모여서 번역하는 사업을 검증해 보고 있습니다. 그런데 많은 분들이 번역의 질 (Quality)에 대해서 염려를 하시더라구요. 저는 번역의 질은 공동 번역하는 프로세스와 참여자 수에 따라 결정된다고 생각합니다.
 
 프로세스
@@ -31,7 +162,7 @@
         <title type="html"><![CDATA[SaaS 창업가가 저지르는 실수 top10]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.283Z</updated>
+        <updated>2021-12-09T02:27:13.645Z</updated>
         <content type="html"><![CDATA[최근 SaaS 영역 팀들을 많이 만나고 담당하게 되면서 SaaS영역에 대해 스터디 중에 있음.(잘 모르면 글로라도 열심히 공부해야지)
 최근 세마트랜스링크의 허진호 대표님께서 좋은 글들을 많이 공유해주시고 추천해주셔서 번역해봄.
 미국 기준이기에 우리나라와 어느 부분에서는 맞지 않는 부분도 있고, 정답이 아닐 수 있지만 나의 경험도 덧붙여봄.
@@ -128,7 +259,7 @@ Mistake #10:  Taking too much advice
         <title type="html"><![CDATA[에어비엔비 first 1000]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.286Z</updated>
+        <updated>2021-12-09T02:27:13.646Z</updated>
         <content type="html"><![CDATA[초기 1000명의 고객을 어떻게 모았을까 시리즈 1 - 에어비엔비 
 
 
@@ -208,7 +339,7 @@ https://brunch.co.kr/@clickb7402/69]]></content>
         <title type="html"><![CDATA[첫 솔루션 가설 검증 결과]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.287Z</updated>
+        <updated>2021-12-09T02:27:13.647Z</updated>
         <content type="html"><![CDATA[제작업체를 쉽게 찾을 수 있는 방법 중 '필터링' 기능을 통해서 추리는 방법에 대한 가설 검증을 진행했었다.
 
 
@@ -247,7 +378,7 @@ https://brunch.co.kr/@clickb7402/69]]></content>
         <title type="html"><![CDATA[시드 투자 유치 경험]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.289Z</updated>
+        <updated>2021-12-09T02:27:13.648Z</updated>
         <content type="html"><![CDATA[슈퍼코더 서비스를 만들고 있는 세컨드팀의 시드투자 유치 이야기를 적어보려고 합니다.
  
 우선 저희 회사의 간략한 background 정보를 알려드리자면 세컨드팀은 창업한지 6개월 된 극초기 스타트업이고 슈퍼코더 서비스를 운영한지는 3개월 정도가 되어갑니다.
@@ -273,7 +404,7 @@ https://brunch.co.kr/@clickb7402/69]]></content>
         <title type="html"><![CDATA[프로덕트의 객관화]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.290Z</updated>
+        <updated>2021-12-09T02:27:13.657Z</updated>
         <content type="html"><![CDATA[프로덕트를 만들면서 자주 느끼는 것 중 하나가 시간이 지날수록 내 프로덕트를 객관적으로 보기가 점점 어려워진다는 거다. 초반에는 아직 만들어진게 많이 없다 보니 처음 목표한 방향에 맞는 아이디어들을 내서 만들 수 있는데, 프로덕트가 발전할수록 여기저기서 피드백과 기능 요청을 받게 되고 이를 무작정 다 반영하려다 보면 어느 순간 초심을 잃고 애매한 프로덕트를 만들기가 쉬워지는 것 같다.
 
 그래서 프로덕트가 확장 단계에 들어설수록 유저와의 지속적인 대화가 특히 중요해지는걸 느낀다. 유저 분들과 이야기하다 보면 ‘당장 없어서 크리티컬한’ 굵직한 니즈와 ‘있으면 좋지만 없어도 괜찮은’ 자잘한 니즈가 확실히 구분되서 다음 개발 방향을 정하는데 큰 도움이 된다. 그 중엔 우리가 예상한 니즈도 있지만 가끔은 ‘어떻게 이걸 생각 못했지?’ 싶을 정도로 중요한 포인트를 놓치고 있었음을 깨닫기도 한다. 이건 심지어 나 자신이 우리 프로덕트의 타겟 고객이라도 마찬가지다. 아무래도 프로덕트를 직접 만드는 과정에서 너무 깊숙히 관여하기 때문에 나도 모르게 객관성을 잃어버리게 되는게 아닐까 싶다.
@@ -284,7 +415,7 @@ https://brunch.co.kr/@clickb7402/69]]></content>
         <title type="html"><![CDATA[Startup = Growth]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.293Z</updated>
+        <updated>2021-12-09T02:27:13.658Z</updated>
         <content type="html"><![CDATA[최근 해외 창업가들이 출현한 팟캐스트들을 많이 듣고 있는데
 에어비앤비의 브라이언 체스키도 그렇고 얼마전 슈퍼휴먼의 창업자도 그렇고 본인들의 성장스토리를 이야기하면서 폴그레이엄 에세이를 읊으며 인용하는 케이스를 많이 목격함 그의 에세이는 해외창업가들에게는 거의 바이블 수준으로  Starup = growth는 Do things that don't scale 과 더불어 양대 산맥일듯.
 
@@ -380,7 +511,7 @@ http://paulgraham.com/growth.html]]></content>
         <title type="html"><![CDATA[신규 기능 개발 후 피드백 인터뷰할 때 노하우]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.294Z</updated>
+        <updated>2021-12-09T02:27:13.658Z</updated>
         <content type="html"><![CDATA[1) 베타테스트 기간을 가질 수 있으면 갖는게 좋다. 베타테스트 신청자를 받은 후 신청자 중 특정 기간이 지났는데도 아직 사용해보지 못한 사람들로부터 배울 수 있는게 많다. 이들은 특정 동기가 있어서 신청을 했는데 어떠한 장벽을 느껴 아직 이를 기능을 사용해보지 못하는 사람들이다. 이 장벽을 파악하면 프로덕트 개선에 도움이 많이 된다.
 
 2) 사용자들이 아이디어를 던져주면 반드시 동기와 그 아이디어를 통해 해결하고자 하는 문제가 무엇인지 파악하기 위해 그 아이디어가 해결해주는 문제가 무엇인지 물어봐야 된다. 그리고 이전에 생각해본 아이디어라고 하더라도 처음 듣는 것처럼 반응을 하는게 좋다. 처음 듣는 것처럼 반응을 하면 일단 인터뷰 질문자 입장에서 좀 더 객관적인 태도로 인터뷰할 수 있고 인터뷰 참여자 입장에서는 내 의견이 존중되고 있다는 느낌을 받으면서 우리 서비스에 좀 더 감정적으로 투자할 수 있다.
@@ -390,66 +521,5 @@ http://paulgraham.com/growth.html]]></content>
 4) 인터뷰를 진행하면서 프로덕트에 대해 간단한 시연을 진행하면 얻을 수 있는게 많다. 테스터가 UX적으로 잘 이해가 안되는 부분이 있는지 알수도 있고 테스터가 생각하지 못한 사용방식에 대해서 아이디어를 줄 수도 있고 그리고 테스터들이 보고 정말 좋다고 생각되는 부분이 있는지 파악할 수도 있다. 시연을 하다보면 사람들이 정말 좋은 것 같은 부분이 있으면 표정과 몸짓에서도 변화가 생기고 그리고 "이 부분은 정말 좋은데요, 이 부분 정말 유용할 것 같네요, 이렇게 사용하면 정말 좋겠네요"등의 리액션을 다이나믹하게 준다.
 
 5) 프로덕트 결정권자와 개발 리더, 디자인 리더 등 인터뷰에 참여할 수 있으면 참여하는게 좋다. 그렇지 않다면 녹화를 해두고 공유하는게 좋다. 인터뷰 참여자의 톤, 표정, 바디랭귀지 등과 함께 인터뷰를 볼 수 있다면 결정권자들이 프로덕트 방향성에 대해 직관을 기르는데 도움이 된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베타테스터 인터뷰를 통해 배운 점]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.295Z</updated>
-        <content type="html"><![CDATA[[사용자 전형]
-베타테스트 신청 모집 결과 창업가, 프로덕트 직군의 사람들이 가장 많은 관심을 보였다. 기존 디스콰이엇의 user demographic을 보면 프로덕트 직군과 개발자가 25%로 가장 많고 그다음 창업가, 디자이너 순이였는데 메이커로그는 50%가 프로덕트 직군, 36%가 창업가, 14% 개발자로 프로덕트 직군의 사람들이 가장 많은 관심을 보였다. 36% 창업가들 또한 시리즈 A이전의 극초기 창업가들이 많았고 보통 시리즈 A이전 창업가들이 팀에서 PM역할을 많이 수행하는 것을 생각해보면 프로덕트 직군의 사람들이 메이커로그 기능에 대해 압도적으로 관심이 많은 것 같다. 
-
-[동기 (Motivation)]
-메이커로그 기능을 개발하기 전 잠재 사용자들을 찾아서 자신의 프로젝트에 대해서 기록하고 온라인에 공유하는 행위에 대한 동기를 파악하기 위해 인터뷰를 진행했는데 그때 크게 3가지로 동기를 구분할 수 있었다.
-
-1) 성장 관련 동기(Intrapersonal): 자기 성장을 위한 회고, 성장 과정 기록, 실행력을 늘리기 위해, 프로젝트 정리, 직무 역량 향상
-2) 외부 리소스를 얻기 위한 동기(Neutral): 팀원 채용, 투자 유치, 피드백 얻기
-3) 홍보 관련 동기(Interpersonal): 자기 PR, 셀프 브랜딩, 서비스 홍보, 취업
-
-이번 피드백 인터뷰를 해봤을 때도 여기서 크게 벗어난 동기는 없었다. 
-
-[수행해야 되는 일 (Job)]
-동기를 해결하기 위해 수행해야하는 일 관련해서 대부분은 우리가 기존에 알고 있었던 것에서 크게 벗어나지 않았으나 몇가지 새로운 발견도 있었다. 우선 전체를 나열하자면 다음과 같다:
-
-1) 성장 관련 동기를 해결하기 위해 수행해야 되는 일: 일지 및 회고록 작성, 스터도 모임 참여, 비슷한 고민을 하고 있는 사람들과의 네트워킹, 구글 검색 및 독서, 지속적으로 글쓰기
-2) 외부 리소스를 얻기 위한 동기를 해결하기 위해 수행해야 되는 일: 팀원 모집 공고 작성 및 온라인에 배포, 프로덕트 개발 과정 기록, IT업계 종사자, 투자자, 동료 창업가들과 네트워킹, MVP 공유, 베타테스터 모집, 회사 블로그 운영
-3) 홍보 관련 동기를 해결하기 위해 수행해야 되는 일: 회고록 및 일지 작성하여 온라인에 공유, SNS 광고, 온라인 커뮤니티 활동, 주기적인 컨텐츠 제작
-
-그리고 몇가지 이전에 내부적으로 고민은 했으나 실제 유저 인터뷰에서 이를 이야기해준 사람을 만난 케이스가 몇개 있다. 
-
-1) IT서비스 만드는 동아리 및 IT직무 교육 프로그램을 운영하는 곳들이 있었는데 이들이 교육생들이 배운 것에 대해서 기록하게 하는 용도로 사용해보고 싶다고 한 곳들이 있다. 기록이라는 행위를 통해 교육생들은 배운 것을 다시 복습하면서 좀 더 자신의 것으로 그 내용을 소화할 수 있고 운영사 입장에서는 교육 프로그램 홍보에 도움이 된다. 
-2) PM, PO로 취업하고 싶은데 디스콰이엇 메이커로그를 사용해 이전에 프로젝트를 진행한 것을 정리하고 이를 취업 포트폴리오의 일부로 사용하고 싶어하는 분이 있었다. 
-
-[기존 해결책]
-기존 해결책으로는 미디엄, 브런치, 네이버 블로그, 티스토리와 같은 블로깅 서비스, 페이스북, 트위터와 같은 SNS, 노션, 애플 노트와 같은 note taking app이 있었다. 
-
-[기존 해결책의 문제점]
-기존 해결책의 문제점으로는 각각 어떤 유형의 해결책이냐에 따라(블로그, SNS, 기록 앱) 다양하게 갈리는데 해결책의 유형과 상관없이 공통적으로 이야기하는 것은 프로덕트를 만드는 것에 관심있으면서 나와 취향이 맞는 커뮤니티 부재가 있다. 취향이라고 하면 그 커뮤니티의 문화, 사람들이 글을 쓰는 방식, 서로 교류하는 방식, 궁극적으로는 이와 같은 요소들에 영향을 주는 커뮤니티에서 활동하는 사람들의 성향 등을 이야기한다. 예를 들면 커리어 게시판으로 블라인드와 리멤버 커뮤니티가 있는데 이 둘 커뮤니티의 성향은 정말 다르다. 블라인드는 좀더 자극적이고 리멤버는 좀더 예의바르다. 
-
-그 외에 또 새로운 발견은 사람들이 프로덕트를 만드는 과정에 대해 회고하고 기록할만한 블로그가 딱히 없다는 것이다. 인터뷰를 해봤을때 현재 가장 선호되는 곳은 브런치와 미디엄인 것 같은데 브런치는 아무나 글을 쓸수가 없고 미디엄은 구독하는 사람이 정기 결제를 해야되는 서비스라 기록을 통해 업계 종사자들과 네트워킹을 하는데에는 한계가 있다. 또한 이런 블로깅 플랫폼에서는 사람들이 길이가 길고 퀄리티가 높은 글을 적어야 된다는 부담감을 느껴 보통 적는데 1주일에서 길게는 한달까지 걸린다고 한다. 좀 더 글을 다이나믹하게 적고 네트워킹 할 수 있는 플랫폼을 원한다는 것을 배웠다. 
-
-[메이커로그 기능의 불편한 점]
-불편한 점은 정말 다양한 피드백이 있었는데 그 중 가장 크리티컬한 것 3개는 다음과 같다.
-- 인라인 이미지를 추가할 수 없음.
-- 볼드 처리, 리스트 생성 등 텍스트 에디팅 기능이 없음.
-- 어떤 프로덕트에 대한 메이커로그인지 알리고 싶은데 이게 안됨.
-
-[문제 &amp; 해결책 적합성]
-아직 적합하다고 하기에는 개선해야될 것이 많이 존재하는 것 같다. 그 중 가장 중요한건 글을 어떻게 적어야되는지 막막함을 해결해주는 것이다. 프로덕트에 대한 이야기를 나눌 수 있는 커뮤니티를 사람들이 원하는 이유가 프로덕트를 만드는 것에 대한 관심이 생겨난지 얼마 안되어 이에 관한 정보가 많이 없기 때문인데 역설적으로 그렇기 때문에 이에 관한 글을 어떻게 적어야되는지 막막해하는 사람들이 많은 것 같다. 
-
-[사람들이 원하는 커뮤니티]
-이를 파악하기 위해 어떤 사람들이 디스콰이엇에 많았으면 좋겠는지와 어떤 유형의 글을 많이 봤으면 좋겠는지를 물어봤다. 우선 대부분의 사람들이 자신과 비슷한 고민을 하고 있는 사람을 원한다고 대답했다. 현재 매니저 위치에 있는 사람은 다른 매니저를, 예비 창업가는 다른 예비 창업가를, 취업을 준비하는 대학생은 다른 대학생을 원했다. 
-
-컨텐츠 관련해서는 과정을 기록하는 유형과 아니면 요즘 인기가 많은 인사이트 아티클과 같은 정보성 컨텐츠로 나뉘었는데 이들의 공통 분모 또한 결국 프로덕트를 만드는 과정에서 현재 내가 고민하고 있는 부분을 다른 사람들은 어떻게 해결하는지 알고 싶다는 것과 연결되어 있었다.
-
-[앞으로 계획]
-우선 크리티컬한 3개를 먼저 개선할 계획이다. 그러면서 베타테스팅을 좀 더 진행하고 계속 데이터를 수집하면서 우리가 초기 타깃 고객을 좁히고 초기 시장 진입 전략을 세울 계획이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 직장인의 ESG 라이프 - SoLaRun의 시작 #1]]></title>
-        <id>https://disquiet.io/?sort=recent&amp;type=maker_log</id>
-        <link href="https://disquiet.io/?sort=recent&amp;type=maker_log"/>
-        <updated>2021-12-09T01:53:38.296Z</updated>
-        <content type="html"><![CDATA['18년도 6월 한 대기업에 입사하게 되었고, 바로 주재원으로 발령이 나 해외로 나가게 되었다. 1여년 정도가 지났을 때 조금씩 지치기 시작하였다. 하루 기본 12시간 이상을 머무는 회사에서의 삶은 답답함의 연속이었다. 일 자체는 크게 문제가 되지 않았다. 하지만 가장 어려웠던 부분은 내가 왜 일을 해야하는지에 대한 비전을 회사도 그리그 그 누구도 제시해주지 않은 것이었다. 회사에 오랜 시간 몸을 담은 선배들의 삶을 보아도 비전을 찾을 수 없었고, 다들 그저 승진을 위해 맹목적으로 일을 하는 것처럼 보였다. 나 자신을 동기부여 시키기 위해 이런 저런 모티브를 만들어냈지만, 이것도 잠시일뿐 지속가능하지 않았다. 고민의 시간을 거치며 한 가지 사실을 깨달았다. '워라벨'이라는 컨셉은 나에게 맞지 않은다는 것이었다. 최근 몇 년간 유행처럼 사용되는 '워라벨'이라는 단어는 회사 내에서의 삶은 괴롭고, 회사 밖에서의 삶은 행복하다 라는 의미를 함포하고 있다. 나는 이런 삶을 원지 않았다. 중요한 20대 중후반을 지나고 있는 나의 인생의 절반 가까이를 보내는 곳이 괴롭다면 너무나도 불행한 인생일 것 같았다. 어쩌면 일과 삶의 경계를 구분하는 것이 아니라 모호하게 만들고 싶다라는 생각을 했다. 이를 통해, 직장과 직장 밖의 삶이 black and white으로 구분이 되는 것이라 조화를 이루게 하고 싶었다. 'Work and Life Balance'가 아닌 'Work and Life Harmony'를 찾고 싶었다. 돌아보면 위와 같은 생각과 고민을 기점으로, 작은 변화들이 조금씩 그리고 꾸준히 생기기 시작한 것 같다.]]></content>
     </entry>
 </feed>
