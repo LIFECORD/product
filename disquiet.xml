@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-11T21:06:48.600Z</updated>
+    <updated>2021-12-11T22:05:59.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[해피타입]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-11T21:06:22.062Z</updated>
+        <updated>2021-12-11T22:05:32.254Z</updated>
         <content type="html"><![CDATA[명언 읽기는 재미없죠?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크로플]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-11T21:06:22.063Z</updated>
+        <updated>2021-12-11T22:05:32.255Z</updated>
         <content type="html"><![CDATA[콘테스트 개최 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아임포트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-11T21:06:22.064Z</updated>
+        <updated>2021-12-11T22:05:32.256Z</updated>
         <content type="html"><![CDATA[온라인 결제 연동 API]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제이크]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-11T21:06:22.065Z</updated>
+        <updated>2021-12-11T22:05:32.257Z</updated>
         <content type="html"><![CDATA[게임을 발견하고, 플레이를 공유하세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이얌 Easy Yum]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-11T21:06:22.066Z</updated>
+        <updated>2021-12-11T22:05:32.259Z</updated>
         <content type="html"><![CDATA[다이어트 식단 추천 및 케어 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아임코치]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-11T21:06:22.068Z</updated>
+        <updated>2021-12-11T22:05:32.260Z</updated>
         <content type="html"><![CDATA[영양제 안전성 검색 서비스]]></content>
     </entry>
 </feed>
