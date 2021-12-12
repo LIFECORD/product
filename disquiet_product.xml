@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2021-12-12T21:05:45.651Z</updated>
+    <updated>2021-12-12T22:05:25.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[세일즈덕]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.189Z</updated>
+        <updated>2021-12-12T22:05:05.205Z</updated>
         <content type="html"><![CDATA[중소상공인을 위한 스마트한 비즈니스 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해피타입]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.189Z</updated>
+        <updated>2021-12-12T22:05:05.206Z</updated>
         <content type="html"><![CDATA[명언 읽기는 재미없죠?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크로플]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.191Z</updated>
+        <updated>2021-12-12T22:05:05.208Z</updated>
         <content type="html"><![CDATA[콘테스트 개최 플랫폼]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아임포트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.191Z</updated>
+        <updated>2021-12-12T22:05:05.209Z</updated>
         <content type="html"><![CDATA[온라인 결제 연동 API]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제이크]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.197Z</updated>
+        <updated>2021-12-12T22:05:05.210Z</updated>
         <content type="html"><![CDATA[게임을 발견하고, 플레이를 공유하세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이얌 Easy Yum]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.197Z</updated>
+        <updated>2021-12-12T22:05:05.211Z</updated>
         <content type="html"><![CDATA[다이어트 식단 추천 및 케어 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아임코치]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.197Z</updated>
+        <updated>2021-12-12T22:05:05.213Z</updated>
         <content type="html"><![CDATA[영양제 안전성 검색 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Double Tap]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.197Z</updated>
+        <updated>2021-12-12T22:05:05.214Z</updated>
         <content type="html"><![CDATA[웹 프론트엔드 기술 면접, 이제는 미리 연습하자!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리동네 배달마켓 패스켓]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.197Z</updated>
+        <updated>2021-12-12T22:05:05.215Z</updated>
         <content type="html"><![CDATA[온라인 과 우리동네 인기상품! 이제 주문후 30분내 배달 받으세요!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노션 이력서 소개팅]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-12T21:05:23.197Z</updated>
+        <updated>2021-12-12T22:05:05.216Z</updated>
         <content type="html"><![CDATA[일도 사랑도 노션 하나면 돼! - 노션으로 서로를 알아가는 데이팅 서비스]]></content>
     </entry>
 </feed>
