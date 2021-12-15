@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2021-12-15T00:22:50.532Z</updated>
+    <updated>2021-12-15T01:53:12.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[커피하우스]]></title>
+        <id>https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8</id>
+        <link href="https://the-hit.co/services/MOEzfoZ3lCNd07UHiXb8"/>
+        <updated>2021-12-15T01:52:37.223Z</updated>
+        <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outcode]]></title>
         <id>https://the-hit.co/services/Jg40jPusAZdj04ioOvsZ</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/MFMif8MRV15aIufdNS7A"/>
         <updated>2021-11-16T10:11:46.751Z</updated>
         <content type="html"><![CDATA[가치소비 큐레이션 커머스 비보트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달링크]]></title>
-        <id>https://the-hit.co/services/eHRbpsGjscVrxmApY0RP</id>
-        <link href="https://the-hit.co/services/eHRbpsGjscVrxmApY0RP"/>
-        <updated>2021-11-16T10:11:46.756Z</updated>
-        <content type="html"><![CDATA[가장 쉬운 멀티링크 서비스]]></content>
     </entry>
 </feed>
