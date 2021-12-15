@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-15T12:10:17.749Z</updated>
+    <updated>2021-12-15T13:15:27.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[코드너리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-15T12:09:48.782Z</updated>
+        <updated>2021-12-15T13:14:59.919Z</updated>
         <content type="html"><![CDATA[다른 스타트업은 어떤 기술 스택을 사용하고 있을까요?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valuers]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-15T12:09:48.782Z</updated>
+        <updated>2021-12-15T13:14:59.920Z</updated>
         <content type="html"><![CDATA[노션 기반 포트폴리오 공유 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플래닛]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-15T12:09:48.783Z</updated>
+        <updated>2021-12-15T13:14:59.921Z</updated>
         <content type="html"><![CDATA[돈 버는 공부타이머]]></content>
     </entry>
 </feed>
