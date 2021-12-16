@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-16T02:25:32.207Z</updated>
+    <updated>2021-12-16T03:07:48.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Mini 투자 유치 CRM]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-16T02:25:00.203Z</updated>
+        <updated>2021-12-16T03:07:12.997Z</updated>
         <content type="html"><![CDATA[스타트업 투자 유치(IR)을 위한 무료 스프레드시트 &amp; 노션 CRM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드너리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-16T02:25:00.203Z</updated>
+        <updated>2021-12-16T03:07:12.999Z</updated>
         <content type="html"><![CDATA[다른 스타트업은 어떤 기술 스택을 사용하고 있을까요?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valuers]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-16T02:25:00.205Z</updated>
+        <updated>2021-12-16T03:07:13.000Z</updated>
         <content type="html"><![CDATA[노션 기반 포트폴리오 공유 서비스]]></content>
     </entry>
 </feed>
