@@ -2,56 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-19T16:08:36.840Z</updated>
+    <updated>2021-12-19T17:15:12.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[일상그린]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.860Z</updated>
+        <updated>2021-12-19T17:14:39.146Z</updated>
         <content type="html"><![CDATA[누구나 쉽게 에코라이프를 시작할 수 있는 친환경 소셜 플랫폼, 일상그린!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baremetrics]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.864Z</updated>
+        <updated>2021-12-19T17:14:39.151Z</updated>
         <content type="html"><![CDATA[SaaS/구독형 비즈니스를 위한 리얼타임 실적분석 BI툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UXPin Merge]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.866Z</updated>
+        <updated>2021-12-19T17:14:39.152Z</updated>
         <content type="html"><![CDATA[UX디자이너와 프론트엔드개발자를 완벽히 연결해주는 코드기반 디자인도구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[색갈피]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.867Z</updated>
+        <updated>2021-12-19T17:14:39.154Z</updated>
         <content type="html"><![CDATA[나만의 색으로 기록하는 그날의 감정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DEX Project OPENBIT]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.869Z</updated>
+        <updated>2021-12-19T17:14:39.156Z</updated>
         <content type="html"><![CDATA[OPENBIT은 많은 사람들이 가상자산을 거래할 수 있는 DEX Project 입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DIO]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.870Z</updated>
+        <updated>2021-12-19T17:14:39.158Z</updated>
         <content type="html"><![CDATA[빅테크 출신 개발자,디자이너,마케터를 리모트&amp;파트타임으로 채용해보세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커피하우스]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-19T16:08:07.872Z</updated>
+        <updated>2021-12-19T17:14:39.160Z</updated>
         <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
     </entry>
 </feed>
