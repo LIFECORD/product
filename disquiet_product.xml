@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2021-12-19T19:06:27.000Z</updated>
+    <updated>2021-12-19T20:07:42.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[일상그린]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.895Z</updated>
+        <updated>2021-12-19T20:07:21.630Z</updated>
         <content type="html"><![CDATA[누구나 쉽게 에코라이프를 시작할 수 있는 친환경 소셜 플랫폼, 일상그린!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baremetrics]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.898Z</updated>
+        <updated>2021-12-19T20:07:21.631Z</updated>
         <content type="html"><![CDATA[SaaS/구독형 비즈니스를 위한 리얼타임 실적분석 BI툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UXPin Merge]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.900Z</updated>
+        <updated>2021-12-19T20:07:21.632Z</updated>
         <content type="html"><![CDATA[UX디자이너와 프론트엔드개발자를 완벽히 연결해주는 코드기반 디자인도구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[색갈피]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.900Z</updated>
+        <updated>2021-12-19T20:07:21.633Z</updated>
         <content type="html"><![CDATA[나만의 색으로 기록하는 그날의 감정]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DEX Project OPENBIT]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.902Z</updated>
+        <updated>2021-12-19T20:07:21.634Z</updated>
         <content type="html"><![CDATA[OPENBIT은 많은 사람들이 가상자산을 거래할 수 있는 DEX Project 입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DIO]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.903Z</updated>
+        <updated>2021-12-19T20:07:21.635Z</updated>
         <content type="html"><![CDATA[빅테크 출신 개발자,디자이너,마케터를 리모트&amp;파트타임으로 채용해보세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커피하우스]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.905Z</updated>
+        <updated>2021-12-19T20:07:21.636Z</updated>
         <content type="html"><![CDATA[당신의 투자에 영감을 주는 주식 SNS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mini 투자 유치 CRM]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.907Z</updated>
+        <updated>2021-12-19T20:07:21.637Z</updated>
         <content type="html"><![CDATA[스타트업 투자 유치(IR)을 위한 무료 스프레드시트 &amp; 노션 CRM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드너리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.908Z</updated>
+        <updated>2021-12-19T20:07:21.639Z</updated>
         <content type="html"><![CDATA[다른 스타트업은 어떤 기술 스택을 사용하고 있을까요?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Valuers]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2021-12-19T19:06:03.910Z</updated>
+        <updated>2021-12-19T20:07:21.641Z</updated>
         <content type="html"><![CDATA[노션 기반 포트폴리오 공유 서비스]]></content>
     </entry>
 </feed>
