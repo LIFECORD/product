@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet</title>
-    <updated>2021-12-21T16:10:24.895Z</updated>
+    <updated>2021-12-21T17:18:57.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[유버 보카]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-21T16:09:55.539Z</updated>
+        <updated>2021-12-21T17:18:25.555Z</updated>
         <content type="html"><![CDATA[가볍고 심플한 단어장 앱입니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일상그린]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-21T16:09:55.540Z</updated>
+        <updated>2021-12-21T17:18:25.566Z</updated>
         <content type="html"><![CDATA[누구나 쉽게 에코라이프를 시작할 수 있는 친환경 소셜 플랫폼, 일상그린!]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baremetrics]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-21T16:09:55.540Z</updated>
+        <updated>2021-12-21T17:18:25.566Z</updated>
         <content type="html"><![CDATA[SaaS/구독형 비즈니스를 위한 리얼타임 실적분석 BI툴]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[UXPin Merge]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2021-12-21T16:09:55.541Z</updated>
+        <updated>2021-12-21T17:18:25.567Z</updated>
         <content type="html"><![CDATA[UX디자이너와 프론트엔드개발자를 완벽히 연결해주는 코드기반 디자인도구]]></content>
     </entry>
 </feed>
