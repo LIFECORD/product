@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 14:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 15:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,13 +217,6 @@
             <guid>https://news.hada.io/topic?id=5141</guid>
             <pubDate>Tue, 05 Oct 2021 07:11:56 GMT</pubDate>
             <content:encoded><![CDATA[(atend.ai)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: Frost - Flask 기반의 여러 Built-In 기능이 있는 REST API 서버 템플릿 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5125</link>
-            <guid>https://news.hada.io/topic?id=5125</guid>
-            <pubDate>Sat, 02 Oct 2021 08:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다. (GeekNews Show)]]></title>
