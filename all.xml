@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 14:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 15:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -217,13 +217,6 @@
             <guid>https://news.hada.io/topic?id=5292</guid>
             <pubDate>Sun, 31 Oct 2021 04:12:46 GMT</pubDate>
             <content:encoded><![CDATA[(github.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 화상회의/녹화/AI받아쓰기 한 번에 브라우저에서 ATEND (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5141</link>
-            <guid>https://news.hada.io/topic?id=5141</guid>
-            <pubDate>Tue, 05 Oct 2021 07:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[(atend.ai)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 미니앱을 만들 수 있는 잼킷을 소개합니다. (GeekNews Show)]]></title>
