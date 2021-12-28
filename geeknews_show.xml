@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2021-12-28T02:28:52.779Z</updated>
+    <updated>2021-12-28T03:07:39.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 디스콰이엇 메이커로그]]></title>
+        <id>https://news.hada.io/topic?id=5637</id>
+        <link href="https://news.hada.io/topic?id=5637"/>
+        <updated>2021-12-28T03:07:39.286Z</updated>
+        <content type="html"><![CDATA[(disquiet.io)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 북모리 - 기록하고 기억하는 독서노트]]></title>
         <id>https://news.hada.io/topic?id=5583</id>
