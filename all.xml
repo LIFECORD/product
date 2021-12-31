@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 04:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2021/07/10/cashslide/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[life]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 라즈베리파이로 주식투자하기 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5658</link>
+            <guid>https://news.hada.io/topic?id=5658</guid>
+            <pubDate>Fri, 31 Dec 2021 05:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[(beefproj.github.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 디스콰이엇 메이커로그 (GeekNews Show)]]></title>
