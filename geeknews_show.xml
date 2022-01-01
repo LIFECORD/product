@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-01-01T14:06:37.746Z</updated>
+    <updated>2022-01-01T15:05:23.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://news.hada.io/topic?id=5305"/>
         <updated>2021-11-02T05:09:31.740Z</updated>
         <content type="html"><![CDATA[(yacht.seokmin.dev)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: 한·중·일 전산학 용어 대조]]></title>
-        <id>https://news.hada.io/topic?id=5165</id>
-        <link href="https://news.hada.io/topic?id=5165"/>
-        <updated>2021-10-13T08:12:10.465Z</updated>
-        <content type="html"><![CDATA[(cjk-compsci-terms.netlify.app)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 포브 - 매일 아침 7시에 동기부여를 줄 수 있는 글귀를 이메일로 전송해주는 서비스]]></title>
