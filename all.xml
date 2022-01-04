@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 02:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 03:08:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -163,18 +163,18 @@
             <content:encoded><![CDATA[(bookmory.web.app)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 디스콰이엇 메이커로그 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5637</link>
-            <guid>https://news.hada.io/topic?id=5637</guid>
-            <pubDate>Tue, 28 Dec 2021 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[(disquiet.io)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 게임을 발견하고, 플레이를 공유하는 제이크 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5516</link>
             <guid>https://news.hada.io/topic?id=5516</guid>
             <pubDate>Thu, 09 Dec 2021 04:08:40 GMT</pubDate>
             <content:encoded><![CDATA[(zake.gg)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 디스콰이엇 메이커로그 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5637</link>
+            <guid>https://news.hada.io/topic?id=5637</guid>
+            <pubDate>Tue, 28 Dec 2021 03:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[(disquiet.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 해피타입 - 매일 아침 명언 타이핑 (GeekNews Show)]]></title>
