@@ -8,30 +8,30 @@ contentSelector = "p[class^='ServiceItem_ServiceItem__summary']"
 waitForSelector = ".ServiceItemList_item__1PzdI"
 
 [disquiet]
-title = "Disquiet"
+title = "Disquiet ─ 전체"
 url = "https://disquiet.io/?sort=recent&type=all"
-entrySelector = "div[class='sc-iLcRNb inpCgn approved']"
-titleSelector = "h3.title"
+entrySelector = "div.sc-fSnZzA.jewkEm"
+titleSelector = "div.productNameWrapper div.card-title"
 linkSelector = "*"
-contentSelector = "div[class='sc-jnHOtz ipPkEC']"
+contentSelector = "div.sc-fcmPfK.eRLFri"
 waitUntil = "networkidle"
 
 [disquiet_product]
 title = "Disquiet ─ 프로덕트"
 url = "https://disquiet.io/?sort=recent&type=product"
-entrySelector = "div[class='sc-iLcRNb inpCgn approved']"
-titleSelector = "h3.title"
+entrySelector = "div.sc-iJmhdZ.cxDRhY"
+titleSelector = "div.card-title"
 linkSelector = "*"
-contentSelector = "div[class='sc-jnHOtz ipPkEC']"
+contentSelector = "div.sc-fcmPfK.eRLFri"
 waitUntil = "networkidle"
 
 [disquiet_makerlog]
 title = "Disquiet ─ 메이커로그"
 url = "https://disquiet.io/?sort=recent&type=maker_log"
-entrySelector = "div[class='sc-jdPOdc cuvzLK']"
+entrySelector = "div.sc-fVfVBW.jJvthn"
 titleSelector = "div.title"
 linkSelector = "*"
-contentSelector = "div[class='sc-hoXqvr kzxKEf']"
+contentSelector = "div.sc-gGiJkG.dJMBLE.ql-editor"
 waitUntil = "networkidle"
 
 [wwit]
