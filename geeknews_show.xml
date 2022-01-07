@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-01-06T23:07:40.967Z</updated>
+    <updated>2022-01-07T00:24:16.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show GN: 리모클: 타임존 비주얼라이저 (시차 변환기)]]></title>
+        <id>https://news.hada.io/topic?id=5700</id>
+        <link href="https://news.hada.io/topic?id=5700"/>
+        <updated>2022-01-07T00:24:15.795Z</updated>
+        <content type="html"><![CDATA[(remocle.com)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 노트가든 모바일-편하게 노트 정리하고, 바로 테스트, SR 알고리즘으로 최적의 주기로 복습까지 도와주...]]></title>
         <id>https://news.hada.io/topic?id=5686</id>
