@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-08T20:09:34.919Z</updated>
+    <updated>2022-01-08T21:05:40.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[MUTTA 묻따]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-08T20:09:06.013Z</updated>
+        <updated>2022-01-08T21:05:08.751Z</updated>
         <content type="html"><![CDATA[고등영어/토익 질문 답변 모바일 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Objet]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-08T20:09:06.014Z</updated>
+        <updated>2022-01-08T21:05:08.753Z</updated>
         <content type="html"><![CDATA[사진 크롭 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS 리스트 by Relate 2.0]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-08T20:09:06.016Z</updated>
+        <updated>2022-01-08T21:05:08.754Z</updated>
         <content type="html"><![CDATA[진짜로 쓸 만한 SaaS 툴들을 큐레이션 합니다.]]></content>
     </entry>
 </feed>
