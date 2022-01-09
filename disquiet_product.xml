@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=product</id>
     <title>Disquiet ─ 프로덕트</title>
-    <updated>2022-01-09T09:06:50.757Z</updated>
+    <updated>2022-01-09T10:07:46.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[MUTTA 묻따]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.701Z</updated>
+        <updated>2022-01-09T10:07:22.758Z</updated>
         <content type="html"><![CDATA[고등영어/토익 질문 답변 모바일 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Objet]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.701Z</updated>
+        <updated>2022-01-09T10:07:22.760Z</updated>
         <content type="html"><![CDATA[사진 크롭 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SaaS 리스트 by Relate 2.0]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.701Z</updated>
+        <updated>2022-01-09T10:07:22.762Z</updated>
         <content type="html"><![CDATA[진짜로 쓸 만한 SaaS 툴들을 큐레이션 합니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨링 See.ring]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.701Z</updated>
+        <updated>2022-01-09T10:07:22.764Z</updated>
         <content type="html"><![CDATA[AR 이모티콘으로 기록하는 커플 SNS]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.701Z</updated>
+        <updated>2022-01-09T10:07:22.768Z</updated>
         <content type="html"><![CDATA[파워풀한 설문 양식 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로덕테스트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.705Z</updated>
+        <updated>2022-01-09T10:07:22.770Z</updated>
         <content type="html"><![CDATA[스타트업을 위한 가설 검증 사례 공유 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비즈넵]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.706Z</updated>
+        <updated>2022-01-09T10:07:22.771Z</updated>
         <content type="html"><![CDATA[사업자금 통합관리 솔루션]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NOTEGARDEN Mobile.노트가든 모바일]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.713Z</updated>
+        <updated>2022-01-09T10:07:22.781Z</updated>
         <content type="html"><![CDATA[SR 알고리즘을 기반으로 하여 트리구조로 필기한 내용을 바로 암기할 수 있는 최적의 학습 도구]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[repeatyoutubevideo]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.713Z</updated>
+        <updated>2022-01-09T10:07:22.781Z</updated>
         <content type="html"><![CDATA[유튜브 영상의 일부를 반복해서 볼 수 있도록 해주는 웹사이트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[포인트베리]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=product</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=product"/>
-        <updated>2022-01-09T09:06:30.713Z</updated>
+        <updated>2022-01-09T10:07:22.781Z</updated>
         <content type="html"><![CDATA[다양한 앱을 사용하면서 베리 포인트를 적립]]></content>
     </entry>
 </feed>
