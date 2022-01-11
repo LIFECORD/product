@@ -2,7 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-11T20:07:13.403Z</updated>
+    <updated>2022-01-11T22:07:25.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이로드]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-11T22:06:56.620Z</updated>
+        <content type="html"><![CDATA[결제 수수료 없이, 자체 간편 결제(like 쿠팡페이)를 쉽게 개발할 수 있게 해주는 핀테크 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[렌트리]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-11T22:06:56.620Z</updated>
+        <content type="html"><![CDATA[정수기 등 렌탈 제품 비교 &amp; 역경매식 판매원별 가격비교 플랫폼]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MUTTA 묻따]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-11T22:06:56.621Z</updated>
+        <content type="html"><![CDATA[고등영어/토익 질문 답변 모바일 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Objet]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-11T22:06:56.622Z</updated>
+        <content type="html"><![CDATA[사진 크롭 앱]]></content>
+    </entry>
 </feed>
