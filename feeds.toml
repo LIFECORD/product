@@ -10,28 +10,28 @@ waitForSelector = ".ServiceItemList_item__1PzdI"
 [disquiet]
 title = "Disquiet ─ 전체"
 url = "https://disquiet.io/?sort=recent&type=all"
-entrySelector = "div.sc-fSnZzA.jewkEm"
-titleSelector = "div.productNameWrapper div.card-title"
+entrySelector = "div.sc-ksPlPm.eMkQNd"
+titleSelector = "div.card-header div.card-title"
 linkSelector = "*"
-contentSelector = "div.sc-fcmPfK.eRLFri"
+contentSelector = "div.sc-jHMygC.kCPxJF"
 waitUntil = "networkidle"
 
 [disquiet_product]
 title = "Disquiet ─ 프로덕트"
 url = "https://disquiet.io/?sort=recent&type=product"
-entrySelector = "div.sc-iJmhdZ.cxDRhY"
+entrySelector = "div.sc-bOdqNl.gvlESN"
 titleSelector = "div.card-title"
 linkSelector = "*"
-contentSelector = "div.sc-fcmPfK.eRLFri"
+contentSelector = "div.sc-jHMygC.kCPxJF"
 waitUntil = "networkidle"
 
 [disquiet_makerlog]
 title = "Disquiet ─ 메이커로그"
 url = "https://disquiet.io/?sort=recent&type=maker_log"
-entrySelector = "div.sc-fVfVBW.jJvthn"
+entrySelector = "div.sc-kMOkjD.doEEbC"
 titleSelector = "div.title"
 linkSelector = "*"
-contentSelector = "div.sc-gGiJkG.dJMBLE.ql-editor"
+contentSelector = "div.sc-erkbxa.duRzJU.ql-editor"
 waitUntil = "networkidle"
 
 [wwit]
