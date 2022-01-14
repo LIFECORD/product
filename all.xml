@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 11:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 12:12:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,18 +205,18 @@
             <content:encoded><![CDATA[(hexoul.github.io)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 디스콰이엇 메이커로그 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5637</link>
-            <guid>https://news.hada.io/topic?id=5637</guid>
-            <pubDate>Tue, 28 Dec 2021 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[(disquiet.io)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: edge-yacht - Cloudflare Workers에서 동작하는 멀티플레이어 게임 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5305</link>
             <guid>https://news.hada.io/topic?id=5305</guid>
             <pubDate>Tue, 02 Nov 2021 05:09:31 GMT</pubDate>
             <content:encoded><![CDATA[(yacht.seokmin.dev)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 디스콰이엇 메이커로그 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5637</link>
+            <guid>https://news.hada.io/topic?id=5637</guid>
+            <pubDate>Tue, 28 Dec 2021 03:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[(disquiet.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 뉴스레터를 즐겨보고 있다면 주목해야 할 서비스, 헤이버니를 소개합니다. (GeekNews Show)]]></title>
