@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-17T12:11:33.433Z</updated>
+    <updated>2022-01-17T13:18:52.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Instacap]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-17T12:11:02.965Z</updated>
+        <updated>2022-01-17T13:18:23.072Z</updated>
         <content type="html"><![CDATA[Instant annotation &amp; visual feedback]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유링고]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-17T12:11:02.968Z</updated>
+        <updated>2022-01-17T13:18:23.073Z</updated>
         <content type="html"><![CDATA[예문과 음성으로 학습하는 영어 단어]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[센드샵]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-17T12:11:02.969Z</updated>
+        <updated>2022-01-17T13:18:23.075Z</updated>
         <content type="html"><![CDATA[중고폰 대신 판매 서비스]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무나]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-17T12:11:02.978Z</updated>
+        <updated>2022-01-17T13:18:23.075Z</updated>
         <content type="html"><![CDATA[안전하고 빠르게 분템 및 득템 가능한 여성전용 무료나눔 앱]]></content>
     </entry>
 </feed>
