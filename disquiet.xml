@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-18T12:12:41.869Z</updated>
+    <updated>2022-01-18T13:18:43.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[플레이핏]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-18T12:12:13.697Z</updated>
+        <updated>2022-01-18T13:18:13.270Z</updated>
         <content type="html"><![CDATA[운동을 즐거운 게임으로 만드는 모션인식 피트니스 앱]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벚꽃파티]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-18T12:12:13.698Z</updated>
+        <updated>2022-01-18T13:18:13.272Z</updated>
         <content type="html"><![CDATA[벚꽃을 보고 싶은 사람 모두모두 모여라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Instacap]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-18T12:12:13.699Z</updated>
+        <updated>2022-01-18T13:18:13.274Z</updated>
         <content type="html"><![CDATA[Instant annotation &amp; visual feedback]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유링고]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-18T12:12:13.700Z</updated>
+        <updated>2022-01-18T13:18:13.275Z</updated>
         <content type="html"><![CDATA[예문과 음성으로 학습하는 영어 단어]]></content>
     </entry>
 </feed>
