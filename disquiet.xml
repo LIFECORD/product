@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-20T16:09:54.365Z</updated>
+    <updated>2022-01-20T17:11:44.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[오늘도떡볶이]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-20T16:09:25.605Z</updated>
+        <updated>2022-01-20T17:11:10.897Z</updated>
         <content type="html"><![CDATA[나만알고 있는 떡볶이를 공유해주세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드메이트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-20T16:09:25.605Z</updated>
+        <updated>2022-01-20T17:11:10.898Z</updated>
         <content type="html"><![CDATA[나의 코딩 기록이 포트폴리오가 되는 공간]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PageNow]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-20T16:09:25.606Z</updated>
+        <updated>2022-01-20T17:11:10.899Z</updated>
         <content type="html"><![CDATA[지금 읽고 있는 페이지를 친구들과 실시간으로 공유하는 크롬 익스텐션]]></content>
     </entry>
 </feed>
