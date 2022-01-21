@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://disquiet.io/?sort=recent&amp;type=all</id>
     <title>Disquiet ─ 전체</title>
-    <updated>2022-01-20T20:07:56.902Z</updated>
+    <updated>2022-01-21T08:08:32.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://disquiet.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MOTI. Make Own True Identity]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-21T08:07:58.801Z</updated>
+        <content type="html"><![CDATA[매일 하루에 한 번 받은 질문에 답하면서 자신을 기록해보세요.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT뱅크]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-21T08:07:58.801Z</updated>
+        <content type="html"><![CDATA[NFT 포트폴리오 관리 서비스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소비의미학]]></title>
+        <id>https://disquiet.io/?sort=recent&amp;type=all</id>
+        <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
+        <updated>2022-01-21T08:07:58.803Z</updated>
+        <content type="html"><![CDATA[소비의미학은 신용카드 없이 계좌 등록만으로  분할 결제할 수 있는 서비스를 제공하고 있어요!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘도떡볶이]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-20T20:07:28.901Z</updated>
+        <updated>2022-01-21T08:07:58.806Z</updated>
         <content type="html"><![CDATA[나만알고 있는 떡볶이를 공유해주세요]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드메이트]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-20T20:07:28.902Z</updated>
+        <updated>2022-01-21T08:07:58.806Z</updated>
         <content type="html"><![CDATA[나의 코딩 기록이 포트폴리오가 되는 공간]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PageNow]]></title>
         <id>https://disquiet.io/?sort=recent&amp;type=all</id>
         <link href="https://disquiet.io/?sort=recent&amp;type=all"/>
-        <updated>2022-01-20T20:07:28.903Z</updated>
+        <updated>2022-01-21T08:07:58.807Z</updated>
         <content type="html"><![CDATA[지금 읽고 있는 페이지를 친구들과 실시간으로 공유하는 크롬 익스텐션]]></content>
     </entry>
 </feed>
