@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 08:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 09:05:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[닷집 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</link>
+            <guid>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</guid>
+            <pubDate>Sat, 22 Jan 2022 09:05:07 GMT</pubDate>
+            <content:encoded><![CDATA[민영/공영 청약정보를 모아보고 관심 청약 메일링 서비스]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[DIO (디오) (THE HIT)]]></title>
             <link>https://the-hit.co/services/QzmYxEahu17N6VYddmzq</link>
@@ -104,13 +111,6 @@
             <guid>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</guid>
             <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
             <content:encoded><![CDATA[소셜 프리젠테이션 플랫폼]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비보트 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</link>
-            <guid>https://the-hit.co/services/MFMif8MRV15aIufdNS7A</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[가치소비 큐레이션 커머스 비보트]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오웹툰 (WWIT)]]></title>
