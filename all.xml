@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 21:06:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 08:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,12 +113,19 @@
             <content:encoded><![CDATA[소셜 프리젠테이션 플랫폼]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TADA (WWIT)]]></title>
+            <link>https://wwit.design/2022/01/23/tada/</link>
+            <guid>https://wwit.design/2022/01/23/tada/</guid>
+            <pubDate>Mon, 24 Jan 2022 08:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[Mobility]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/tada/tada_splash.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[카카오웹툰 (WWIT)]]></title>
             <link>https://wwit.design/2021/09/16/kakaowebtoon/</link>
             <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[entertainment]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/kw/kw_splash.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[쿠팡 (WWIT)]]></title>
@@ -138,13 +145,6 @@
             <title><![CDATA[카닥 (WWIT)]]></title>
             <link>https://wwit.design/2021/07/11/cardoc/</link>
             <guid>https://wwit.design/2021/07/11/cardoc/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[캐시슬라이드 (WWIT)]]></title>
-            <link>https://wwit.design/2021/07/10/cashslide/</link>
-            <guid>https://wwit.design/2021/07/10/cashslide/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[life]]></content:encoded>
         </item>
