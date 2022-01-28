@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 22:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 08:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2021/07/11/cardoc/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[life]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: PyKIPass - QR체크인 API 래퍼 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5837</link>
+            <guid>https://news.hada.io/topic?id=5837</guid>
+            <pubDate>Fri, 28 Jan 2022 08:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지? (GeekNews Show)]]></title>
