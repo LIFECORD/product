@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-02-05T13:06:38.411Z</updated>
+    <updated>2022-02-05T14:04:16.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[버스스로]]></title>
+        <id>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</id>
+        <link href="https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X"/>
+        <updated>2022-02-05T14:03:40.762Z</updated>
+        <content type="html"><![CDATA[시각장애인을 위한 버스탑승 원스톱 솔루션]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[닷집]]></title>
         <id>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC"/>
         <updated>2021-11-16T10:11:46.748Z</updated>
         <content type="html"><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프리젠트]]></title>
-        <id>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</id>
-        <link href="https://the-hit.co/services/gqQvlWi7cONs2JFivKc2"/>
-        <updated>2021-11-16T10:11:46.750Z</updated>
-        <content type="html"><![CDATA[소셜 프리젠테이션 플랫폼]]></content>
     </entry>
 </feed>

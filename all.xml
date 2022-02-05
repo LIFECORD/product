@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 13:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 14:04:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버스스로 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</link>
+            <guid>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</guid>
+            <pubDate>Sat, 05 Feb 2022 14:03:40 GMT</pubDate>
+            <content:encoded><![CDATA[시각장애인을 위한 버스탑승 원스톱 솔루션]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[닷집 (THE HIT)]]></title>
             <link>https://the-hit.co/services/3ZvuTJoySbUvBmcRdcfl</link>
@@ -104,13 +111,6 @@
             <guid>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</guid>
             <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
             <content:encoded><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[프리젠트 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</link>
-            <guid>https://the-hit.co/services/gqQvlWi7cONs2JFivKc2</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[소셜 프리젠테이션 플랫폼]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TADA (WWIT)]]></title>
