@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 17:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 18:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -113,12 +113,19 @@
             <content:encoded><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[TADA (WWIT)]]></title>
+            <title><![CDATA[런드리고 (WWIT)]]></title>
+            <link>https://wwit.design/2022/02/07/laundrygo/</link>
+            <guid>https://wwit.design/2022/02/07/laundrygo/</guid>
+            <pubDate>Mon, 07 Feb 2022 18:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[life]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/laundrygo/laundrygo_splash.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[타다 TADA (WWIT)]]></title>
             <link>https://wwit.design/2022/01/23/tada/</link>
             <guid>https://wwit.design/2022/01/23/tada/</guid>
             <pubDate>Mon, 24 Jan 2022 08:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[Mobility]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/tada/tada_splash.PNG" length="0" type="image/PNG"/>
+            <content:encoded><![CDATA[mobility]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[카카오웹툰 (WWIT)]]></title>
@@ -140,13 +147,6 @@
             <guid>https://wwit.design/2021/07/26/ruiiidtutor/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[education]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카닥 (WWIT)]]></title>
-            <link>https://wwit.design/2021/07/11/cardoc/</link>
-            <guid>https://wwit.design/2021/07/11/cardoc/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서 (GeekNews Show)]]></title>
