@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 10:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 11:05:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3 Liner (THE HIT)]]></title>
+            <link>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</link>
+            <guid>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</guid>
+            <pubDate>Thu, 17 Feb 2022 11:04:34 GMT</pubDate>
+            <content:encoded><![CDATA[검색 툴]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[버스스로 (THE HIT)]]></title>
             <link>https://the-hit.co/services/MI0gZTeXaY2DjW3zPi6X</link>
@@ -104,13 +111,6 @@
             <guid>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</guid>
             <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
             <content:encoded><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모티너스 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</link>
-            <guid>https://the-hit.co/services/R9ksIl2zqp6G5s7jnqQC</guid>
-            <pubDate>Tue, 16 Nov 2021 10:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[커뮤니티 기반 CEO 루틴 만들기]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[런드리고 (WWIT)]]></title>
