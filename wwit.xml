@@ -1,47 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>WWIT</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 20:11:31 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[런드리고]]></title>
-            <link>https://wwit.design/2022/02/07/laundrygo/</link>
-            <guid>https://wwit.design/2022/02/07/laundrygo/</guid>
-            <pubDate>Mon, 07 Feb 2022 18:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[life]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/laundrygo/laundrygo_splash.PNG" length="0" type="image/PNG"/>
-        </item>
-        <item>
-            <title><![CDATA[타다 TADA]]></title>
-            <link>https://wwit.design/2022/01/23/tada/</link>
-            <guid>https://wwit.design/2022/01/23/tada/</guid>
-            <pubDate>Mon, 24 Jan 2022 08:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[mobility]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오웹툰]]></title>
-            <link>https://wwit.design/2021/09/16/kakaowebtoon/</link>
-            <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[entertainment]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[쿠팡]]></title>
-            <link>https://wwit.design/2021/07/27/coupang/</link>
-            <guid>https://wwit.design/2021/07/27/coupang/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[shopping]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뤼이드 튜터]]></title>
-            <link>https://wwit.design/2021/07/26/ruiiidtutor/</link>
-            <guid>https://wwit.design/2021/07/26/ruiiidtutor/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[education]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wwit.design/</id>
+    <title>WWIT</title>
+    <updated>2022-02-19T21:06:13.734Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://wwit.design/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[런드리고]]></title>
+        <id>https://wwit.design/2022/02/07/laundrygo/</id>
+        <link href="https://wwit.design/2022/02/07/laundrygo/"/>
+        <updated>2022-02-07T18:11:29.288Z</updated>
+        <content type="html"><![CDATA[life]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타다 TADA]]></title>
+        <id>https://wwit.design/2022/01/23/tada/</id>
+        <link href="https://wwit.design/2022/01/23/tada/"/>
+        <updated>2022-01-24T08:10:10.134Z</updated>
+        <content type="html"><![CDATA[mobility]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오웹툰]]></title>
+        <id>https://wwit.design/2021/09/16/kakaowebtoon/</id>
+        <link href="https://wwit.design/2021/09/16/kakaowebtoon/"/>
+        <updated>2021-11-05T02:26:41.489Z</updated>
+        <content type="html"><![CDATA[entertainment]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡]]></title>
+        <id>https://wwit.design/2021/07/27/coupang/</id>
+        <link href="https://wwit.design/2021/07/27/coupang/"/>
+        <updated>2021-11-05T02:26:41.482Z</updated>
+        <content type="html"><![CDATA[shopping]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뤼이드 튜터]]></title>
+        <id>https://wwit.design/2021/07/26/ruiiidtutor/</id>
+        <link href="https://wwit.design/2021/07/26/ruiiidtutor/"/>
+        <updated>2021-11-05T02:26:41.484Z</updated>
+        <content type="html"><![CDATA[education]]></content>
+    </entry>
+</feed>
