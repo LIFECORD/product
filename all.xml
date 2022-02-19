@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 23:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,18 +184,18 @@
             <content:encoded><![CDATA[(beefproj.github.io)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5869</link>
-            <guid>https://news.hada.io/topic?id=5869</guid>
-            <pubDate>Tue, 01 Feb 2022 11:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[(scon-io.github.io)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: InIn - 줍줍할 주식 종목 찾는 서비스 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5726</link>
             <guid>https://news.hada.io/topic?id=5726</guid>
             <pubDate>Tue, 11 Jan 2022 13:17:15 GMT</pubDate>
             <content:encoded><![CDATA[(theinin.web.app)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5869</link>
+            <guid>https://news.hada.io/topic?id=5869</guid>
+            <pubDate>Tue, 01 Feb 2022 11:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[(scon-io.github.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 노트가든 모바일-편하게 노트 정리하고, 바로 테스트, SR 알고리즘으로 최적의 주기로 복습까지 도와주... (GeekNews Show)]]></title>
