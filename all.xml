@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 12:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 13:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,18 +198,18 @@
             <content:encoded><![CDATA[(realdeveloper.pro)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 우리말 Wordle (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5866</link>
-            <guid>https://news.hada.io/topic?id=5866</guid>
-            <pubDate>Tue, 01 Feb 2022 08:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[(plan9.kr)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 라즈베리파이로 주식투자하기 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5658</link>
             <guid>https://news.hada.io/topic?id=5658</guid>
             <pubDate>Fri, 31 Dec 2021 05:09:01 GMT</pubDate>
             <content:encoded><![CDATA[(beefproj.github.io)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 우리말 Wordle (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5866</link>
+            <guid>https://news.hada.io/topic?id=5866</guid>
+            <pubDate>Tue, 01 Feb 2022 08:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[(plan9.kr)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: ago - 칫솔 바꾼지 얼마나 지났지? (GeekNews Show)]]></title>
