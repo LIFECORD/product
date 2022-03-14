@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 15:08:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,27 @@
             <guid>https://wwit.design/2021/07/26/ruiiidtutor/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[education]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6135</link>
+            <guid>https://news.hada.io/topic?id=6135</guid>
+            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: P2P Remote Desktop - Open Source - alternative to TeamViewer - AnyDesk ... (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6136</link>
+            <guid>https://news.hada.io/topic?id=6136</guid>
+            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6134</link>
+            <guid>https://news.hada.io/topic?id=6134</guid>
+            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리 (GeekNews Show)]]></title>
