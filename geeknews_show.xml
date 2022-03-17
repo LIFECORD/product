@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/show</id>
     <title>GeekNews Show</title>
-    <updated>2022-03-16T19:07:13.211Z</updated>
+    <updated>2022-03-17T07:09:24.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
@@ -20,13 +20,6 @@
         <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps]]></title>
-        <id>https://news.hada.io/topic?id=6134</id>
-        <link href="https://news.hada.io/topic?id=6134"/>
-        <updated>2022-03-14T07:09:49.087Z</updated>
-        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리]]></title>
         <id>https://news.hada.io/topic?id=6112</id>
         <link href="https://news.hada.io/topic?id=6112"/>
@@ -39,6 +32,13 @@
         <link href="https://news.hada.io/topic?id=6062"/>
         <updated>2022-02-28T16:11:51.386Z</updated>
         <content type="html"><![CDATA[(changjoo-park.github.io)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps]]></title>
+        <id>https://news.hada.io/topic?id=6134</id>
+        <link href="https://news.hada.io/topic?id=6134"/>
+        <updated>2022-03-14T07:09:49.087Z</updated>
+        <content type="html"><![CDATA[(github.com/miroslavpejic85)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: K-Startup 사업공고 알림 슬랙 봇]]></title>
