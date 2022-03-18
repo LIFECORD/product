@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -163,18 +163,18 @@
             <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6112</link>
-            <guid>https://news.hada.io/topic?id=6112</guid>
-            <pubDate>Wed, 09 Mar 2022 13:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com/gitofolio)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 토스페이스"tossface"와 다른 유니코드 벤더 이모지 비교 페이지 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6062</link>
             <guid>https://news.hada.io/topic?id=6062</guid>
             <pubDate>Mon, 28 Feb 2022 16:11:51 GMT</pubDate>
             <content:encoded><![CDATA[(changjoo-park.github.io)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6112</link>
+            <guid>https://news.hada.io/topic?id=6112</guid>
+            <pubDate>Wed, 09 Mar 2022 13:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/gitofolio)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps (GeekNews Show)]]></title>
