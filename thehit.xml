@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-03-18T08:20:09.858Z</updated>
+    <updated>2022-03-18T09:44:08.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[매치드]]></title>
+        <id>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</id>
+        <link href="https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv"/>
+        <updated>2022-03-18T09:43:30.371Z</updated>
+        <content type="html"><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Liner]]></title>
         <id>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU"/>
         <updated>2021-09-27T21:44:38.996Z</updated>
         <content type="html"><![CDATA[AI 추천 육아용품 중고마켓 | 아기 울음소리 분석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 폼]]></title>
-        <id>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</id>
-        <link href="https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC"/>
-        <updated>2021-09-27T21:44:38.999Z</updated>
-        <content type="html"><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content>
     </entry>
 </feed>

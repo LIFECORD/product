@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 08:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매치드 (THE HIT)]]></title>
+            <link>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</link>
+            <guid>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</guid>
+            <pubDate>Fri, 18 Mar 2022 09:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[결재자 기반 B2B 영업 매칭 서비스]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[3 Liner (THE HIT)]]></title>
             <link>https://the-hit.co/services/XwjGpMYa6HaReO95zh3l</link>
@@ -104,13 +111,6 @@
             <guid>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</guid>
             <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
             <content:encoded><![CDATA[AI 추천 육아용품 중고마켓 | 아기 울음소리 분석]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 폼 (THE HIT)]]></title>
-            <link>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</link>
-            <guid>https://the-hit.co/services/NF37ylJ1CuSZh3PGnBgC</guid>
-            <pubDate>Mon, 27 Sep 2021 21:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[모든 폼을 대신하는 폼나는 설문조사 종합 솔루션]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[런드리고 (WWIT)]]></title>
