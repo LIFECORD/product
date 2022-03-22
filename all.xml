@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 14:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -252,13 +252,6 @@
             <guid>https://news.hada.io/topic?id=5700</guid>
             <pubDate>Fri, 07 Jan 2022 00:24:15 GMT</pubDate>
             <content:encoded><![CDATA[(remocle.com)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Show GN: 디스콰이엇 메이커로그 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5637</link>
-            <guid>https://news.hada.io/topic?id=5637</guid>
-            <pubDate>Tue, 28 Dec 2021 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[(disquiet.io)]]></content:encoded>
         </item>
     </channel>
 </rss>
