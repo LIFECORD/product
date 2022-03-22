@@ -4,16 +4,23 @@
         <title>WWIT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 15:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 17:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[텍스처 texture]]></title>
+            <link>https://wwit.design/2022/03/20/texture/</link>
+            <guid>https://wwit.design/2022/03/20/texture/</guid>
+            <pubDate>Tue, 22 Mar 2022 17:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[life]]></content:encoded>
+            <enclosure url="https://wwit.design/images/posts/texture/texture_splash.PNG" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA[런드리고]]></title>
             <link>https://wwit.design/2022/02/07/laundrygo/</link>
             <guid>https://wwit.design/2022/02/07/laundrygo/</guid>
             <pubDate>Mon, 07 Feb 2022 18:11:29 GMT</pubDate>
             <content:encoded><![CDATA[life]]></content:encoded>
-            <enclosure url="https://wwit.design/images/posts/laundrygo/laundrygo_splash.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[타다 TADA]]></title>
@@ -35,13 +42,6 @@
             <guid>https://wwit.design/2021/07/27/coupang/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[shopping]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뤼이드 튜터]]></title>
-            <link>https://wwit.design/2021/07/26/ruiiidtutor/</link>
-            <guid>https://wwit.design/2021/07/26/ruiiidtutor/</guid>
-            <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[education]]></content:encoded>
         </item>
     </channel>
 </rss>
