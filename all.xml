@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,18 +184,18 @@
             <content:encoded><![CDATA[(startup-notify.web.app)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6134</link>
-            <guid>https://news.hada.io/topic?id=6134</guid>
-            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5904</link>
             <guid>https://news.hada.io/topic?id=5904</guid>
             <pubDate>Sat, 05 Feb 2022 08:07:56 GMT</pubDate>
             <content:encoded><![CDATA[(realdeveloper.pro)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: MiroTalk - P2P - Open-Source - Simple, Secure, Fast WebRTC Up to 4k and 60fps (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6134</link>
+            <guid>https://news.hada.io/topic?id=6134</guid>
+            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 라즈베리파이로 주식투자하기 (GeekNews Show)]]></title>
