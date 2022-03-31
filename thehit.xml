@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-hit.co/</id>
     <title>THE HIT</title>
-    <updated>2022-03-31T09:10:45.679Z</updated>
+    <updated>2022-03-31T10:09:06.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://the-hit.co/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[mAsh]]></title>
+        <id>https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq</id>
+        <link href="https://the-hit.co/services/CJyu9n9FkH3Q7HHCIuEq"/>
+        <updated>2022-03-31T10:08:27.309Z</updated>
+        <content type="html"><![CDATA[오프라인의 구글 애널리틱스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매치드]]></title>
         <id>https://the-hit.co/services/DRg7MKYIKVwVXIMV5HRv</id>
@@ -102,12 +109,5 @@
         <link href="https://the-hit.co/services/xYx4Q4tUi4hhGm13eVmj"/>
         <updated>2021-09-27T21:44:38.990Z</updated>
         <content type="html"><![CDATA[내 옷장에서부터 시작하는 나만의 의류 생활 공간]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바뱌]]></title>
-        <id>https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU</id>
-        <link href="https://the-hit.co/services/vkID0a8ktyNE9L0EjOeU"/>
-        <updated>2021-09-27T21:44:38.996Z</updated>
-        <content type="html"><![CDATA[AI 추천 육아용품 중고마켓 | 아기 울음소리 분석]]></content>
     </entry>
 </feed>
