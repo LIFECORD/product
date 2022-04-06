@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 20:10:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,6 +149,20 @@
             <content:encoded><![CDATA[entertainment]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장) (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6316</link>
+            <guid>https://news.hada.io/topic?id=6316</guid>
+            <pubDate>Wed, 06 Apr 2022 07:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[(pbkit.dev)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 영어 단어 반복 학습에 최적화된 단어장을 만들어봤어요. (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6315</link>
+            <guid>https://news.hada.io/topic?id=6315</guid>
+            <pubDate>Wed, 06 Apr 2022 07:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[(linktr.ee)]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Show GN: elbird - 한글 형태소 분석기인 kiwi의 R wrapping package (github.com) (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6290</link>
             <guid>https://news.hada.io/topic?id=6290</guid>
@@ -177,11 +191,11 @@
             <content:encoded><![CDATA[(startup-notify.web.app)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6135</link>
-            <guid>https://news.hada.io/topic?id=6135</guid>
-            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
+            <title><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=5904</link>
+            <guid>https://news.hada.io/topic?id=5904</guid>
+            <pubDate>Sat, 05 Feb 2022 08:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[(realdeveloper.pro)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 이력서 카드 생성과 이력서 유입 통계 관리 (GeekNews Show)]]></title>
@@ -191,11 +205,11 @@
             <content:encoded><![CDATA[(github.com/gitofolio)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 개발 실력을 가장 잘 표현해주는 진짜개발자 이력서 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=5904</link>
-            <guid>https://news.hada.io/topic?id=5904</guid>
-            <pubDate>Sat, 05 Feb 2022 08:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[(realdeveloper.pro)]]></content:encoded>
+            <title><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6135</link>
+            <guid>https://news.hada.io/topic?id=6135</guid>
+            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 우리말 Wordle (GeekNews Show)]]></title>
