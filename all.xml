@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[entertainment]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6333</link>
+            <guid>https://news.hada.io/topic?id=6333</guid>
+            <pubDate>Sat, 09 Apr 2022 09:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[(tilnote.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장) (GeekNews Show)]]></title>
