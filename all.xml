@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 09:08:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[entertainment]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 개발자 데스크 셋업 모음 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6394</link>
+            <guid>https://news.hada.io/topic?id=6394</guid>
+            <pubDate>Mon, 18 Apr 2022 09:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[(nomadcoders.oopy.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. (GeekNews Show)]]></title>
