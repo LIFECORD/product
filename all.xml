@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 17:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 18:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -233,18 +233,18 @@
             <content:encoded><![CDATA[(github.com/gitofolio)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6135</link>
-            <guid>https://news.hada.io/topic?id=6135</guid>
-            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 우리말 Wordle (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=5866</link>
             <guid>https://news.hada.io/topic?id=5866</guid>
             <pubDate>Tue, 01 Feb 2022 08:09:34 GMT</pubDate>
             <content:encoded><![CDATA[(plan9.kr)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: MiroTalk - SFU - Open-Source - Simple, Secure, Scalable, Fast WebRTC Up to 4k (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6135</link>
+            <guid>https://news.hada.io/topic?id=6135</guid>
+            <pubDate>Mon, 14 Mar 2022 07:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/miroslavpejic85)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Pingpop - 하루에 퍼즐 하나 풀기 (GeekNews Show)]]></title>
