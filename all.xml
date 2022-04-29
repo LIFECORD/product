@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 20:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 21:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,18 +149,18 @@
             <content:encoded><![CDATA[entertainment]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 자바 객체 JSON/바이너리 직렬화 라이브러리 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6427</link>
-            <guid>https://news.hada.io/topic?id=6427</guid>
-            <pubDate>Sat, 23 Apr 2022 08:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[(github.com/realtimetech-solution)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 개발자 데스크 셋업 모음 (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6394</link>
             <guid>https://news.hada.io/topic?id=6394</guid>
             <pubDate>Mon, 18 Apr 2022 09:08:29 GMT</pubDate>
             <content:encoded><![CDATA[(nomadcoders.oopy.io)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 자바 객체 JSON/바이너리 직렬화 라이브러리 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6427</link>
+            <guid>https://news.hada.io/topic?id=6427</guid>
+            <pubDate>Sat, 23 Apr 2022 08:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[(github.com/realtimetech-solution)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장) (GeekNews Show)]]></title>
