@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,6 +147,13 @@
             <guid>https://wwit.design/2021/09/16/kakaowebtoon/</guid>
             <pubDate>Fri, 05 Nov 2021 02:26:41 GMT</pubDate>
             <content:encoded><![CDATA[entertainment]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: Korean FE Article: 한글로 된 프론트엔드 글을 전송해주는 메일링 서비스 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6516</link>
+            <guid>https://news.hada.io/topic?id=6516</guid>
+            <pubDate>Mon, 09 May 2022 07:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[(kofearticle.substack.com)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: Pbkit - Deno로 만든 Protobuf 툴킷 (컴파일러, 패키지 매니저, VSCode 확장, 크롬 확장) (GeekNews Show)]]></title>
