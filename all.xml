@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 17:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 07:08:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -163,18 +163,18 @@
             <content:encoded><![CDATA[(pbkit.dev)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Show GN: 개발자 데스크 셋업 모음 (GeekNews Show)]]></title>
-            <link>https://news.hada.io/topic?id=6394</link>
-            <guid>https://news.hada.io/topic?id=6394</guid>
-            <pubDate>Mon, 18 Apr 2022 09:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[(nomadcoders.oopy.io)]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Show GN: 저장은 쉽고, 정리는 어려워. 비슷한 메모를 같이 보여주는 아이디어 수집가의 메모장. (GeekNews Show)]]></title>
             <link>https://news.hada.io/topic?id=6362</link>
             <guid>https://news.hada.io/topic?id=6362</guid>
             <pubDate>Thu, 14 Apr 2022 02:38:30 GMT</pubDate>
             <content:encoded><![CDATA[(desktop.flint.so)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Show GN: 개발자 데스크 셋업 모음 (GeekNews Show)]]></title>
+            <link>https://news.hada.io/topic?id=6394</link>
+            <guid>https://news.hada.io/topic?id=6394</guid>
+            <pubDate>Mon, 18 Apr 2022 09:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[(nomadcoders.oopy.io)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Show GN: 틸노트 : 데일리 기반으로 TIL (Today I Learned) 를 기록하고 관리할 수 있는 클라우드 노트 (GeekNews Show)]]></title>
